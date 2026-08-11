@@ -1,0 +1,21 @@
+merchant_id,merchant_name,mcc_code,country,channel,onboarded_date,status
+MERC00072,Meadow Electronics,5732,CA,POS,45894,Active
+MERC00344,Lakeside Market,5411,GB,Both,2025-08-22,Inactive
+MERC00001,Silverline Fuel Stop,5541,Canada,E-commerce,17-08-2025, Active
+MERC00166,Ironwood Air,4511,BR,Both,23-07-2025,ACTIVE
+MERC00238,Northgate Airways,4511,India,POS,06-07-2025,Inactive
+MERC00200,Harborview Fuel Stop,5541,US,POS,30-06-2025,Active
+MERC00227,Summit Market,5411,MX,Both,2025-06-25,Active
+MERC00017,Northgate Games,7995,Germany,POS,23-06-2025,Active
+MERC00186,Metro Shop,5999,DE,E-commerce,45830,Active
+MERC00052,Ironwood Service Station,5541,GB,POS,2025-06-20,Active
+MERC00352,Meadow Bistro,5812,IN,POS,2025-06-14,ACTIVE
+MERC00022,Riverside Gas & Go,5541,United Kingdom,POS,08-06-2025,Active
+MERC00391,Harborview ATM,6011,US,ATM,05-06-2025,active
+MERC00189,Skyline Diner,5812,United Kingdom,Both,30-05-2025,Active
+MERC00260,Old Town Diner,5812,CA,E-commerce,05-05-2025,Active
+MERC00284,Highland Emporium,5999,US,POS,13-04-2025,Active
+MERC00185,Cedar Market,5411,United Kingdom,POS,45745,Active
+MERC00290,Silverline Retail Co.,5311,IN,Both,27-03-2025,active
+MERC00098,Metro Arcade,7995,US,Both,19-03-2025,Active
+MERC00020,Brookfield Pharmacy,5912,US,POS,2025-02-25, Active

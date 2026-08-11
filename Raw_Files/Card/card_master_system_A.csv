@@ -1,0 +1,816 @@
+Card_ID,Card Network,Card Type,Segment,Issuer Bank,Issuance Country,Issue_Date,Expiry_Date,Status,_source_extract_date
+CARD00596,Meridian  Primary,Debit,Consumer,Meridian Community Bank,Australia,2023-03-02,03/02/2027,Active,2026-01-05
+CARD00398,MERIDIAN PRIMARY,Prepaid,Consumer,  EuroTrust Bank,US,07/13/2022,2026-07-13,Blocked ,2026-01-05
+CARD00328,Meridian Primary,Credit,Consumer,Alta Financial,US,2020-09-30,2024-09-30,Active ,2026-01-05
+CARD00279,Meridian Direct,Credit,Consumer,Ridgeway Bank,SG,2020-11-18,18-11-2024,Active,2026-01-05
+CARD00265,MERIDIAN DIRECT,Credit,Commercial,Andes Financial Group,Australia,06/27/2025,2029-06-27,Active,2026-01-05
+CARD00635,Meridian Primary,Credit,Consumer,Andes Financial Group,United States,06/13/2022,2026-06-13,Active,2026-01-05
+CARD00111,Meridian  Primary,Debit,Consumer,Alta Financial,IN,2022-08-16,16-08-2026,Active,2026-01-05
+CARD00229,Meridian Direct,Credit,Consumer,Crestview  Bank,Brazil,27-09-2022,2026-09-27,Active,2026-01-05
+CARD00303,MERIDIAN PRIMARY,Debit,Consumer,Alta Financial,JP,03/17/2021,2025-03-17,ACTIVE,2026-01-05
+CARD00508,meridian direct,Debit,Commercial,Gulf Horizon Bank,GB,2019-10-23,2023-10-23,Active,2026-01-05
+CARD00035,Meridian Affiliate,Credit,Commercial,Silverline Bank,br,17-12-2019,17-12-2023,expired,2026-01-05
+CARD00739,Meridian Primary,Credit,Consumer,Pacific Rim Bank,Australia,2023-05-09,2027-05-09,Active,2026-01-05
+CARD00745,MERIDIAN PRIMARY,Prepaid,Commercial,Unity Trust Bank,AE,2024-03-18,03/18/2028,Active,2026-01-05
+CARD00149,Meridian Primary,Debit,Consumer,Alta Financial,IN,2023-01-06,2027-01-06, Active,2026-01-05
+CARD00598,meridian primary,Credit,Commercial,Andes Financial Group,US,2023-03-01,03/01/2027,Active,2026-01-05
+CARD00442,Meridian Affiliate,Debit,Consumer,Crestview Bank,IN,2023-04-12,2027-04-12,Active,2026-01-05
+CARD00509,Meridian Affiliate,Credit,Consumer,EuroTrust Bank,US,09/02/2022,02-09-2026,Active,2026-01-05
+CARD00327,Meridian Primary,Credit,Consumer,Harbor National Bank,India,2024-04-20,2028-04-20,ACTIVE,2026-01-05
+CARD00154,Meridian Primary,Prepaid,Consumer,Alta Financial,US,2024-01-10,2028-01-10,active,2026-01-05
+CARD00792,Meridian Primary,Prepaid,Consumer,Harbor National Bank,Germany,13-11-2024,2028-11-13,Active,2026-01-05
+CARD00386,meridian direct,Prepaid,Consumer,Andes Financial Group,JP,43494,44955,ACTIVE,2026-01-05
+CARD00611,meridian primary,Credit,Consumer,Meridian Community Bank,IN,03/10/2020,03/10/2024,Active,2026-01-05
+CARD00380,Meridian Primary,Credit,Consumer,Pacific Rim Bank,MX,2023-02-21,02/21/2027,Active,2026-01-05
+CARD00189,Meridian Primary,Credit,Consumer,Andes Financial Group,IN,2024-08-03,2028-08-03,ACTIVE,2026-01-05
+CARD00583,meridian primary,Prepaid,Consumer,Meridian Community Bank,JP,45402,04/20/2028,Active,2026-01-05
+CARD00468,Meridian Direct,Credit,Consumer,Silverline Bank,AU,43525,2023-03-01,active,2026-01-05
+CARD00368,Meridian Affiliate,Credit,Consumer,Northbridge Bank,US,43919,03/29/2024,active,2026-01-05
+CARD00095,MERIDIAN DIRECT,Debit,Consumer,EuroTrust Bank,BR,2022-02-08,02/08/2026,Inactive,2026-01-05
+CARD00620,Meridian Direct,Prepaid,Consumer,EuroTrust Bank,BR,45902,2029-09-02, Active,2026-01-05
+CARD00272,Meridian Direct,Credit,Consumer,Harbor National Bank,IN,05/01/2025,05/01/2029,NULL,2026-01-05
+CARD00252,meridian primary,Credit,Consumer,Crestview Bank,FR,2024-03-15,2028-03-15,ACTIVE,2026-01-05
+CARD00062,Meridian Primary,Credit,Consumer,Silverline Bank,Japan,2024-01-12,2028-01-12,Active,2026-01-05
+CARD00485,Meridian Primary,Credit,Consumer,Unity Trust Bank,US,2025-02-28,02/28/2029,Active,2026-01-05
+CARD00356,Meridian Primary,Debit,Commercial,Meridian Community Bank,US,10/27/2020,2024-10-27,unknown,2026-01-05
+CARD00054,Meridian Direct,Debit,Consumer,Crestview Bank,Australia,11-10-2019,10/11/2023,Active ,2026-01-05
+CARD00390,Meridian Direct,Debit,Consumer,Crestview Bank,GB,05/17/2025,05/17/2029, Active,2026-01-05
+CARD00519,Meridian Affiliate,Credit,Consumer,Andes Financial Group,IN,2022-11-02,46328, Active,2026-01-05
+CARD00688,Meridian Primary,Debit,Consumer, Alta Financial ,IN,12/25/2024,2028-12-25,Active ,2026-01-05
+CARD00557,Meridian Primary,Prepaid,Consumer,Meridian Community Bank,Mexico,2022-10-20,2026-10-20,Active,2026-01-05
+CARD00712,meridian primary,Debit,Commercial,Silverline Bank,United States,03/08/2020,2024-03-08,active,2026-01-05
+CARD00309,Meridian Direct,Debit,Consumer,Alta Financial,United States,2020-10-31,31-10-2024,Active,2026-01-05
+CARD00738,Meridian Direct,Debit,Consumer,Unity Trust Bank,DE,44510,11/10/2025,None,2026-01-05
+CARD00389,meridian direct,Credit,Consumer,Meridian Community Bank,US,2022-11-29,2026-11-29, Active,2026-01-05
+CARD00014,MERIDIAN PRIMARY,Prepaid,Consumer,Northbridge Bank,CA,2020-11-27,2024-11-27,active,2026-01-05
+CARD00143,Meridian Primary,Debit,Consumer,EuroTrust Bank,IN,12/29/2023,29-12-2027,Active,2026-01-05
+CARD00254,Meridian Primary,Debit,Consumer,Silverline Bank,Mexico,2020-02-03,02/03/2024,Active,2026-01-05
+CARD00524,MERIDIAN DIRECT,Credit,Consumer,Pacific Rim Bank,BR,2019-03-01,2023-03-01,Active,2026-01-05
+CARD00450,Meridian Primary,Debit,Consumer,N/A,SG,2019-08-03,2023-08-03,BLOCKED,2026-01-05
+CARD00297,Meridian Direct,Credit,Consumer,Ridgeway Bank,IN,2021-06-11,06/11/2025,ACTIVE,2026-01-05
+CARD00109,Meridian Primary,Credit,Consumer  ,Meridian Community Bank,Australia,2021-08-14,2025-08-14,Active,2026-01-05
+CARD00180,Meridian Primary,Debit,Consumer,Gulf Horizon Bank,US,2021-05-25,2025-05-25,Active,2026-01-05
+CARD00727,Meridian Primary,Credit,Consumer  ,EuroTrust Bank,Japan,2020-10-27,2024-10-27,active,2026-01-05
+CARD00527,Meridian Primary,Credit,Consumer,Gulf Horizon Bank,France,2019-10-26,2023-10-26,Active,2026-01-05
+CARD00410,Meridian Primary,Prepaid,Consumer,EuroTrust Bank,United Kingdom,2023-02-24,2027-02-24,Inactive,2026-01-05
+CARD00452,meridian primary,Credit,Consumer,Northbridge Bank,AU,44480,10/11/2025,Active,2026-01-05
+CARD00564,MERIDIAN PRIMARY,Debit,Consumer,Alta Financial,US,2021-04-30,2025-04-30,Active ,2026-01-05
+CARD00735,Meridian Primary,Credit,Consumer,Harbor National Bank,IN,14-08-2024,2028-08-14,Inactive,2026-01-05
+CARD00317,MERIDIAN PRIMARY,Credit,Commercial,Meridian Community Bank,AE,2024-02-11,2028-02-11,Active,2026-01-05
+CARD00740,Meridian Primary,Credit,Consumer,Ridgeway Bank,US,2023-01-29,01/29/2027, Active,2026-01-05
+CARD00295,Meridian  Primary,Credit,Consumer,Meridian Community Bank,AU,2022-05-20,2026-05-20,active,2026-01-05
+CARD00755,Meridian Primary,Credit,Consumer,EuroTrust Bank,JP,2020-07-16,2024-07-16,Active,2026-01-05
+CARD00575,Meridian Direct,Credit,Consumer,EuroTrust Bank,AE,02/10/2025,2029-02-10, Active,2026-01-05
+CARD00799,meridian direct,Credit,Consumer,Andes Financial Group,ae,2020-09-24,2024-09-24,Active,2026-01-05
+CARD00443,Meridian  Primary,Debit,Consumer,Harbor National Bank,AU,2025-04-26,47234,Blocked,2026-01-05
+CARD00640,meridian primary,Debit,Consumer,N/A,JP,2025-02-15,15-02-2029,active,2026-01-05
+CARD00438,Meridian  Direct,Credit,Consumer,Unity Trust Bank,Mexico,2022-10-12,2026-10-12,Inactive,2026-01-05
+CARD00774,Meridian Primary,Debit,Consumer,Crestview Bank,United Kingdom,2022-12-20,12/20/2026,active,2026-01-05
+CARD00413,meridian affiliate,Credit,Commercial,Northbridge Bank,United Kingdom,2019-06-16,06/16/2023,ACTIVE,2026-01-05
+CARD00135,Meridian Affiliate,Credit,  Consumer,Harbor National Bank,India,04-10-2020,10/04/2024,active,2026-01-05
+CARD00481,Meridian  Primary,Debit,Consumer,Silverline Bank,BR,01/26/2020,2024-01-26,Active,2026-01-05
+CARD00128,Meridian  Direct,Credit,Commercial,Crestview Bank,IN,2025-04-10,10-04-2029,Active,2026-01-05
+CARD00243,MERIDIAN AFFILIATE,Credit,Consumer,Ridgeway Bank,de,2024-06-22,2028-06-22,Active,2026-01-05
+CARD00049,Meridian Primary,Credit,Consumer,Andes Financial Group,France,2020-06-26,06/26/2024,Active,2026-01-05
+CARD00454,Meridian Affiliate,Credit,Commercial,Pacific Rim Bank,DE,2025-07-17,2029-07-17,INACTIVE,2026-01-05
+CARD00221,MERIDIAN PRIMARY,Debit,Consumer,Meridian Community Bank,sg,2024-01-02,2028-01-02,Active,2026-01-05
+CARD00141,MERIDIAN AFFILIATE,Credit,Consumer,Meridian Community Bank,DE,2022-10-14,10/14/2026,INACTIVE,2026-01-05
+CARD00366,Meridian  Primary,Debit,Consumer,Silverline Bank,us,10/02/2021,2025-10-02,Active,2026-01-05
+CARD00396,Meridian Affiliate,Debit,Consumer,Alta Financial,India,2023-08-11,2027-08-11,Active,2026-01-05
+CARD00253,Meridian Direct,Prepaid,Commercial,Pacific Rim Bank,Australia,2023-12-20,12/20/2027,ACTIVE,2026-01-05
+CARD00016,Meridian Primary,Credit,Consumer,Northbridge Bank,Canada,10-12-2024,2028-12-10,Active,2026-01-05
+CARD00061,meridian primary,Debit,Consumer, Crestview Bank ,FR,44599,2026-02-07,Active,2026-01-05
+CARD00047,Meridian Primary,Credit,Consumer,Alta Financial,IN,19-10-2021,10/19/2025,Active,2026-01-05
+CARD00337,Meridian Direct,Debit,Consumer,Northbridge Bank,AU,2022-09-16,2026-09-16,active,2026-01-05
+CARD00729,Meridian  Primary,Debit,Consumer,Silverline Bank,United Kingdom,2022-11-13,2026-11-13,active,2026-01-05
+CARD00553,Meridian Primary,Credit,Consumer,N/A,DE,2024-10-20,10/20/2028,Active ,2026-01-05
+CARD00696,meridian primary,Debit,unknown,Harbor National Bank,India,01/17/2023,2027-01-17,Active,2026-01-05
+CARD00062,Meridian Primary,Credit,Consumer,Silverline Bank,Japan,2024-01-12,2028-01-12,Active,2026-01-05
+CARD00058,Meridian Primary,Credit,Consumer,Andes Financial Group,Brazil,2025-03-08,2029-03-08,ACTIVE,2026-01-05
+CARD00329,Meridian Primary,Credit,Consumer,Unity Trust Bank,MX,02/07/2021,2025-02-07,Active,2026-01-05
+CARD00245,Meridian  Primary,Debit,Commercial,Pacific Rim Bank,us,07/20/2022,2026-07-20,Active,2026-01-05
+CARD00726,Meridian Direct,Credit,Commercial,Gulf Horizon Bank,FR,44295,2025-04-09,Active,2026-01-05
+CARD00748,Meridian Primary,Debit,Consumer,Unity Trust Bank,US,2025-08-16,2029-08-16,Active,2026-01-05
+CARD00763,Meridian Primary,Debit,Consumer,Silverline Bank,BR,2022-04-03,2026-04-03,Active,2026-01-05
+CARD00354,MERIDIAN PRIMARY,Debit,Consumer,EuroTrust Bank,BR,09/30/2022,2026-09-30,Active,2026-01-05
+CARD00257,Meridian Affiliate,Debit,Consumer,Northbridge Bank,Singapore,11/09/2022,2026-11-09,Active ,2026-01-05
+CARD00753,Meridian Primary,Debit,Consumer,Alta Financial,United States,2019-05-20,05/20/2023,Active,2026-01-05
+CARD00139,Meridian Primary,Credit,Consumer,Harbor National Bank,DE,03/23/2024,2028-03-23,Active ,2026-01-05
+CARD00358,Meridian  Primary,Debit,Consumer,Harbor National Bank,India,2020-06-13,2024-06-13,ACTIVE,2026-01-05
+CARD00587,Meridian  Primary,Debit,Commercial,Andes Financial Group,AU,2024-08-14,14-08-2028,Active,2026-01-05
+CARD00290,meridian primary,Credit,Commercial,Pacific Rim Bank,DE,45881,12-08-2029,Active,2026-01-05
+CARD00490,MERIDIAN DIRECT,Credit,Consumer,Pacific Rim Bank,AE,2022-09-13,2026-09-13,Active,2026-01-05
+CARD00747,MERIDIAN PRIMARY,Debit,Consumer,Northbridge Bank,AU,2021-08-08,08/08/2025,Active ,2026-01-05
+CARD00720,Meridian Direct,Prepaid,Consumer,Unity Trust Bank,IN,10/31/2023,10/31/2027,active,2026-01-05
+CARD00455,Meridian Primary,Debit,Consumer  , Ridgeway Bank ,United Arab Emirates,2019-06-30,45107,active,2026-01-05
+CARD00638,MERIDIAN PRIMARY,Debit,Consumer,Harbor National Bank,United Arab Emirates,2022-08-10,08/10/2026,Active,2026-01-05
+CARD00681,Meridian Direct,Debit,Consumer,Gulf Horizon Bank,US,05/28/2021,05/28/2025,Active,2026-01-05
+CARD00307,meridian primary,Credit,Commercial,  Pacific Rim Bank,IN,43568,2023-04-13,Active ,2026-01-05
+CARD00466,Meridian  Primary,Credit,Consumer,Andes Financial Group,IN,2020-08-12,08/12/2024, Active,2026-01-05
+CARD00126,Meridian Primary,Credit,Consumer,Gulf Horizon Bank,FR,2019-01-05,01/05/2023,INACTIVE,2026-01-05
+CARD00187,Meridian Direct,Debit,Consumer,Unity Trust Bank,United States,2021-01-16,01/16/2025,ACTIVE,2026-01-05
+CARD00777,Meridian Primary,Credit,Consumer,Gulf Horizon Bank,IN,2021-02-02,2025-02-02,Inactive,2026-01-05
+CARD00464,Meridian Primary,Credit,Consumer,Gulf Horizon Bank,BR,2023-04-06,06-04-2027,Active,2026-01-05
+CARD00787,Meridian Primary,Debit,Consumer,Harbor National Bank,gb,2022-09-21,09/21/2026,ACTIVE,2026-01-05
+CARD00051,meridian affiliate,Credit,Consumer,Meridian Community Bank,United Kingdom,2020-06-22,06/22/2024,Active,2026-01-05
+CARD00646,Meridian Direct,Credit,Consumer,  Gulf Horizon Bank,AE,04/13/2022,2026-04-13,active,2026-01-05
+CARD00669,Meridian Primary,Debit,Consumer,Andes Financial Group,sg,08-09-2019,2023-09-08,Inactive,2026-01-05
+CARD00778,MERIDIAN DIRECT,Debit,Consumer,EuroTrust Bank,IN,2025-01-31,2029-01-31,active,2026-01-05
+CARD00597,Meridian Primary,Credit,Consumer,Silverline Bank,DE,2022-01-11,11-01-2026,active,2026-01-05
+CARD00351  ,Meridian Primary,Debit,Consumer,Meridian Community Bank,JP,29-03-2024,2028-03-29,expired,2026-01-05
+CARD00776,Meridian Primary,Credit,Consumer,Andes Financial Group,us,06/02/2022,2026-06-02,Active,2026-01-05
+CARD00064,Meridian Primary,Credit,Consumer,Pacific Rim Bank,India,2022-01-04,2026-01-04,Active,2026-01-05
+CARD00099,Meridian Primary,Credit,Commercial,Pacific Rim Bank,US,2019-03-06,2023-03-06,Active,2026-01-05
+CARD00420,Meridian Direct,Credit,Consumer,Northbridge Bank,India,04/09/2025,2029-04-09, Active,2026-01-05
+CARD00619,Meridian Direct,Credit,Commercial,Pacific Rim Bank,US,2024-12-02,47089,Active,2026-01-05
+CARD00563,Meridian  Primary,Debit,Consumer,Meridian Community Bank,Australia,2020-08-27,08/27/2024,Active,2026-01-05
+CARD00233,meridian primary,Credit,Consumer,Pacific Rim Bank,IN,2021-02-15,02/15/2025,Active,2026-01-05
+CARD00533  ,Meridian Affiliate,Credit,Consumer,Silverline Bank,MX,2022-04-09,04/09/2026,Active,2026-01-05
+CARD00694,Meridian Primary,Credit,Consumer  ,Gulf Horizon Bank,United Kingdom,2021-05-09,05/09/2025,Active,2026-01-05
+CARD00067,Meridian Primary,Credit,Consumer,  Gulf Horizon Bank,France,2019-01-07,44933,Active,2026-01-05
+CARD00581,Meridian Primary,Credit,Consumer,Meridian Community Bank,us,2022-04-12,46124,Active,2026-01-05
+CARD00010,Meridian  Direct,Credit,Consumer,Harbor National Bank,United Kingdom,45850,2029-07-12,Active ,2026-01-05
+CARD00586,Meridian Primary,Credit,Commercial,Crestview Bank,mx,12/01/2024,2028-12-01,Inactive,2026-01-05
+CARD00352,Meridian Direct,Debit,Consumer,Silverline Bank,Australia,44389,07/12/2025,ACTIVE,2026-01-05
+CARD00363,MERIDIAN PRIMARY,Credit,Consumer,Unity Trust Bank,US,01/14/2023,46401,Active,2026-01-05
+CARD00529,Meridian Primary,Debit,Commercial,Gulf Horizon Bank,BR,06/12/2023,2027-06-12,Active,2026-01-05
+CARD00423,Meridian Primary,Credit,Commercial,Gulf Horizon Bank,Germany,2020-02-10,45332,Active ,2026-01-05
+CARD00223,Meridian Primary,Prepaid,Consumer,EuroTrust Bank,Brazil,01/13/2023,2027-01-13,Active,2026-01-05
+CARD00593,Meridian  Primary,Credit,Consumer,Gulf Horizon Bank,br,2020-04-25,04/25/2024,Active,2026-01-05
+CARD00673,MERIDIAN PRIMARY,Debit,Consumer,Harbor National Bank,BR,08/12/2020,45516, Active,2026-01-05
+CARD00065,MERIDIAN PRIMARY,Credit,Commercial,Unity Trust Bank,DE,2024-12-14,12/14/2028,Active,2026-01-05
+CARD00534,meridian primary,Prepaid,Consumer,EuroTrust Bank,IN,2021-08-02,2025-08-02,Active,2026-01-05
+CARD00147  ,Meridian Primary,Credit,Consumer,Andes Financial Group,IN,12/06/2021,2025-12-06,Active,2026-01-05
+CARD00205,meridian primary,Debit,Consumer,Silverline Bank,IN,06/17/2023,2027-06-17,Active,2026-01-05
+CARD00160  ,Meridian Direct,Debit,Consumer,Andes Financial Group,US,11/20/2019,45250,Active,2026-01-05
+CARD00709  ,Meridian Primary,Debit,Consumer,EuroTrust Bank,United States,04-04-2019,04/04/2023,ACTIVE,2026-01-05
+CARD00568,Meridian Primary,Prepaid,Consumer,Crestview Bank,US,2024-09-20,09/20/2028, Active,2026-01-05
+CARD00625,MERIDIAN PRIMARY,Prepaid,Consumer,Meridian Community Bank,US,2024-05-14,2028-05-14,ACTIVE,2026-01-05
+CARD00286,Meridian Primary,Credit,Consumer,Pacific Rim Bank,DE,28-02-2020,2024-02-28, Active,2026-01-05
+CARD00415,Meridian Primary,Debit,Consumer,Silverline Bank,CA,11/17/2019,2023-11-17,ACTIVE,2026-01-05
+CARD00273,Meridian Direct,Credit,Consumer,EuroTrust Bank,GB,03/20/2023,2027-03-20,active,2026-01-05
+CARD00421,Meridian Direct,Prepaid,Commercial,Crestview Bank,Australia,04/23/2020,2024-04-23,Inactive,2026-01-05
+CARD00169,Meridian Primary,Debit,Consumer,Crestview Bank  ,MX,2020-07-31,07/31/2024,Active,2026-01-05
+CARD00671,meridian primary,Debit,Consumer,Northbridge Bank,JP,45002,03/17/2027,Active,2026-01-05
+CARD00382,Meridian Direct,Credit,Consumer, Alta Financial ,DE,2023-04-06,04/06/2027,Active ,2026-01-05
+CARD00412,MERIDIAN AFFILIATE,Credit,Consumer,Crestview Bank,GB,2020-03-08,2024-03-08,Active,2026-01-05
+CARD00447,MERIDIAN AFFILIATE,Credit,Consumer,Harbor National Bank,DE,10/04/2021,10/04/2025,Active,2026-01-05
+CARD00658,Meridian Primary,Debit,Consumer,Ridgeway Bank,India,02/03/2023,2027-02-03,Active,2026-01-05
+CARD00193,meridian affiliate,Credit,Consumer,EuroTrust Bank,Singapore,2022-06-25,25-06-2026,Active,2026-01-05
+CARD00743,Meridian Direct,Debit,Consumer,Harbor National Bank,Brazil,2019-12-22,22-12-2023,ACTIVE,2026-01-05
+CARD00390,Meridian Direct,Debit,Consumer,Crestview Bank,GB,05/17/2025,05/17/2029, Active,2026-01-05
+CARD00260,MERIDIAN PRIMARY,Debit,Consumer ,Silverline Bank,US,08/12/2024,2028-08-12,Active,2026-01-05
+CARD00779,Meridian Direct,Debit,Consumer,Pacific Rim Bank,in,11/23/2020,2024-11-23,Active,2026-01-05
+CARD00393,MERIDIAN PRIMARY,Credit,Consumer,  Northbridge Bank,BR,2020-11-28,2024-11-28,Active,2026-01-05
+CARD00757,Meridian Primary,Debit,Commercial,Harbor National Bank,US,44101,09/27/2024,Active,2026-01-05
+CARD00481,Meridian  Primary,Debit,Consumer,Silverline Bank,BR,01/26/2020,2024-01-26,Active,2026-01-05
+CARD00075,Meridian Direct,Credit,Consumer,Ridgeway Bank,IN,14-05-2023,2027-05-14,Active,2026-01-05
+CARD00264,Meridian  Primary,Credit,Consumer,Andes Financial Group,CA,2019-10-01,01-10-2023,Active,2026-01-05
+CARD00129,meridian primary,Debit,Consumer,Northbridge Bank,FR,2022-11-27,11/27/2026,Active,2026-01-05
+CARD00559,Meridian Direct,Credit,Consumer,Crestview Bank,IN,44751,2026-07-09,ACTIVE,2026-01-05
+CARD00110,Meridian  Primary,Credit,Consumer,Silverline Bank,AU,2024-02-25,02/25/2028,Active,2026-01-05
+CARD00026,Meridian Direct,Prepaid,Consumer,Meridian Community Bank,US,09/16/2022,46281,Active,2026-01-05
+CARD00210,Meridian Primary,Credit,Consumer,Andes Financial Group,FR,09-11-2021,11/09/2025,active,2026-01-05
+CARD00301,MERIDIAN PRIMARY,Credit,Consumer,Gulf Horizon Bank,GB,10-05-2024,2028-05-10,Active,2026-01-05
+CARD00274,Meridian Affiliate,Credit,Consumer,Crestview Bank,CA,07/29/2022,29-07-2026,Active ,2026-01-05
+CARD00453,Meridian Primary,Credit,Consumer,Harbor National Bank,SG,2021-03-31,2025-03-31,ACTIVE,2026-01-05
+CARD00656,Meridian Primary,Prepaid,Consumer,Andes Financial Group,France,45715,02/27/2029,ACTIVE,2026-01-05
+CARD00278,Meridian Primary,Debit,Consumer,Alta Financial,United States,44051,2024-08-08,Active,2026-01-05
+CARD00661,Meridian Primary,Credit,Consumer,Andes Financial Group,United States,43778,11/09/2023,Active,2026-01-05
+CARD00465,Meridian Affiliate,Credit,Consumer,Meridian Community Bank,SG,2020-06-30,2024-06-30,Active ,2026-01-05
+CARD00100,Meridian  Primary,Credit,Consumer,Silverline Bank,gb,03/13/2024,2028-03-13,Active,2026-01-05
+CARD00025,Meridian Primary,Credit,Consumer  ,  Gulf Horizon Bank,JP,2022-12-13,2026-12-13,Active,2026-01-05
+CARD00359,Meridian Affiliate,Debit,Consumer,Andes Financial Group,FR,2023-12-08,2027-12-08,expired,2026-01-05
+CARD00601,Meridian Primary,Credit,Commercial,Pacific Rim Bank,MX,44301,2025-04-15,Inactive,2026-01-05
+CARD00448,Meridian Direct,Credit,Consumer,Gulf Horizon Bank,Canada,26-04-2025,2029-04-26,Active,2026-01-05
+CARD00383,Meridian Primary,Debit,Consumer,Silverline Bank,United States,02-08-2020,02-08-2024,active,2026-01-05
+CARD00501,Meridian  Direct,Credit,Commercial,Alta Financial,CA,09/21/2022,2026-09-21,BLOCKED,2026-01-05
+CARD00539,Meridian Primary,Credit,Consumer,Meridian Community Bank,India,2021-06-23,45831,ACTIVE,2026-01-05
+CARD00262,Meridian Affiliate,Prepaid,Consumer,Silverline Bank,Germany,13-04-2019,2023-04-13,Active,2026-01-05
+CARD00467,Meridian Primary,Credit,Consumer,Alta Financial,Brazil,12/01/2022,01-12-2026,Active,2026-01-05
+CARD00071,Meridian Direct,Credit,Consumer,Northbridge Bank,MX,45597,2028-11-01,active,2026-01-05
+CARD00571  ,Meridian Primary,Prepaid,Consumer,Alta Financial,US,2024-12-12,2028-12-12,Active,2026-01-05
+CARD00542,meridian primary,Credit,Consumer,Harbor National Bank,DE,07/24/2021,24-07-2025,Active,2026-01-05
+CARD00376,Meridian Primary,Credit,Commercial,Unity Trust Bank,DE,43713,09/05/2023,Active,2026-01-05
+CARD00511,Meridian Primary,Credit,Consumer,Pacific Rim Bank,JP,44008,06/26/2024,Expired,2026-01-05
+CARD00741,Meridian Primary,Debit,Consumer,Andes Financial Group,IN,2024-05-31,2028-05-31,Active,2026-01-05
+CARD00388,Meridian  Primary,Credit,Consumer,Crestview Bank,United Kingdom,2019-04-22,2023-04-22,Active,2026-01-05
+CARD00715,meridian primary,Credit,Commercial,Unity Trust Bank,MX,2023-03-10,10-03-2027,Active ,2026-01-05
+CARD00206,Meridian  Primary,Debit,Consumer,EuroTrust Bank,GB,2024-08-16,2028-08-16,Active,2026-01-05
+CARD00794,Meridian  Primary,Credit,Consumer,Silverline Bank,ca,2024-05-10,05/10/2028,Active,2026-01-05
+CARD00546,Meridian Primary,Credit,Consumer,Ridgeway Bank,DE,2022-03-23,03/23/2026,ACTIVE,2026-01-05
+CARD00335,meridian primary,Debit,Consumer,Unity Trust Bank,France,2025-08-02,2029-08-02, Active,2026-01-05
+CARD00744,Meridian Primary,Credit,Consumer,Gulf Horizon Bank,mx,2023-04-06,06-04-2027,Blocked,2026-01-05
+CARD00172,Meridian Primary,Prepaid,Consumer,Silverline Bank,India,06/24/2020,2024-06-24,Active,2026-01-05
+CARD00758,MERIDIAN PRIMARY,Credit,Consumer  ,Unity Trust Bank,US,2019-03-19,19-03-2023,active,2026-01-05
+CARD00284,MERIDIAN PRIMARY,Debit,Consumer,Harbor National Bank,GB,04/14/2021,14-04-2025,Active,2026-01-05
+CARD00400,Meridian Direct,Credit,Consumer,Pacific Rim Bank,India,2022-02-26,2026-02-26,Active,2026-01-05
+CARD00284,MERIDIAN PRIMARY,Debit,Consumer,Harbor National Bank,GB,04/14/2021,14-04-2025,Active,2026-01-05
+CARD00543,MERIDIAN PRIMARY,Debit,Consumer,Crestview Bank,US,2024-07-22,2028-07-22,Active,2026-01-05
+CARD00023,Meridian Primary,Credit,Consumer,Meridian Community Bank,in,09/25/2025,09/25/2029,ACTIVE,2026-01-05
+CARD00663,meridian primary,Credit,Commercial,EuroTrust Bank,US,2023-08-31,2027-08-31,Active,2026-01-05
+CARD00230,MERIDIAN PRIMARY,Debit,Consumer,Alta Financial,IN,44290,2025-04-04,Expired,2026-01-05
+CARD00003,meridian direct,Debit,Consumer,Meridian Community Bank,GB,2023-02-17,02/17/2027,Active,2026-01-05
+CARD00759,Meridian Direct,Debit,Consumer,Alta Financial  ,IN,2023-08-31,2027-08-31,Active,2026-01-05
+CARD00271,Meridian  Direct,Credit,Consumer,Gulf Horizon Bank,AU,22-11-2019,45252,Active,2026-01-05
+CARD00724,Meridian Direct,Credit,Consumer,Pacific Rim Bank,IN,44294,04/08/2025,ACTIVE,2026-01-05
+CARD00699,Meridian  Primary,Credit,Consumer,Meridian Community Bank,US,2019-11-19,2023-11-19,Active,2026-01-05
+CARD00133,Meridian Primary,Prepaid,Consumer,Ridgeway Bank,JP,2019-04-30,30-04-2023,Active,2026-01-05
+CARD00200,Meridian Direct,Credit,Consumer,Northbridge Bank,MX,2023-06-01,06/01/2027,ACTIVE,2026-01-05
+CARD00116,Meridian Direct,Credit,Commercial,Silverline Bank,US,24-07-2020,2024-07-24,Active,2026-01-05
+CARD00353,Meridian Primary,Debit,Consumer,Northbridge Bank,DE,2021-08-09,2025-08-09,Active,2026-01-05
+CARD00510,Meridian  Direct,Debit,Commercial,Andes Financial Group,IN,2024-03-17,2028-03-17,Active ,2026-01-05
+CARD00668,Meridian Primary,Credit,Consumer,Northbridge Bank,BR,29-07-2025,07/29/2029,Active,2026-01-05
+CARD00624,Meridian Primary,Credit,Consumer,Northbridge Bank,CA,2022-09-15,09/15/2026,Active,2026-01-05
+CARD00066,Meridian Primary,Debit,Commercial,Unity Trust Bank,CA,44356,2025-06-09,Active,2026-01-05
+  CARD00240,meridian primary,Credit,Consumer,Alta Financial,US,2021-06-23,2025-06-23,Active,2026-01-05
+CARD00052,Meridian Direct,Debit,Consumer,Harbor National Bank,Brazil,2025-03-14,2029-03-14,Active ,2026-01-05
+CARD00361,Meridian Primary,Debit,Consumer,Silverline Bank,Germany,2019-01-21,2023-01-21,Active,2026-01-05
+CARD00301,MERIDIAN PRIMARY,Credit,Consumer,Gulf Horizon Bank,GB,10-05-2024,2028-05-10,Active,2026-01-05
+CARD00615,Meridian Direct,Credit,Consumer,Meridian Community Bank,United Kingdom,2025-08-01,2029-08-01,active,2026-01-05
+CARD00308,Meridian Primary,Debit,Consumer,EuroTrust Bank,US,44136,2024-11-01,Active,2026-01-05
+CARD00762,Meridian  Primary,Credit,Consumer,Pacific Rim Bank,IN,11/04/2021,2025-11-04,Active,2026-01-05
+CARD00427,MERIDIAN PRIMARY,Credit,Consumer,Gulf Horizon Bank,US,43805,2023-12-06,Active,2026-01-05
+CARD00767,Meridian Direct,Debit,Consumer,Silverline Bank,CA,21-01-2020,01/21/2024,Active,2026-01-05
+CARD00306,Meridian Affiliate,Credit,Consumer,Northbridge Bank,India,2023-11-11,2027-11-11,Active,2026-01-05
+CARD00595,Meridian  Direct,Credit,Consumer,Ridgeway Bank,IN,01/29/2021,2025-01-29, Active,2026-01-05
+CARD00324,Meridian Primary,Debit,Consumer,Alta Financial,United States,2024-06-20,2028-06-20,ACTIVE,2026-01-05
+CARD00780,Meridian Primary,Credit,Consumer, Pacific Rim Bank ,United States,2019-04-18,18-04-2023,Active,2026-01-05
+CARD00082,Meridian Primary,Debit,Commercial,EuroTrust Bank,Mexico,2021-09-22,2025-09-22,Active,2026-01-05
+CARD00711,Meridian Direct,Debit,Consumer,Harbor National Bank,IN,2020-02-23,2024-02-23,Active,2026-01-05
+CARD00617,Meridian Primary,Credit,Consumer,Alta Financial,Canada,2024-07-31,2028-07-31,Active,2026-01-05
+CARD00178,Meridian Primary,Credit,Consumer,Unity Trust Bank,United Kingdom,06/20/2020,06/20/2024,active,2026-01-05
+CARD00642,Meridian Primary,Credit,Consumer,Gulf Horizon Bank,United Kingdom,06/27/2021,06/27/2025,Active,2026-01-05
+CARD00038,MERIDIAN PRIMARY,Credit,Consumer,Gulf Horizon Bank,US,2022-08-03,2026-08-03,active,2026-01-05
+CARD00098,Meridian Primary,Debit,Consumer,Silverline Bank,GB,04/13/2020,2024-04-13,inactive,2026-01-05
+CARD00727,Meridian Primary,Credit,Consumer  ,EuroTrust Bank,Japan,2020-10-27,2024-10-27,active,2026-01-05
+CARD00203,Meridian Primary,Debit,Consumer,Silverline Bank,US,31-07-2023,2027-07-31,Active,2026-01-05
+CARD00531,Meridian Direct,Debit,Consumer,Unity Trust Bank,Brazil,11/19/2023,2027-11-19, Active,2026-01-05
+CARD00237,Meridian  Primary,Credit,Consumer,Crestview Bank,FR,2020-08-10,2024-08-10,Active,2026-01-05
+CARD00150,Meridian Primary,Debit,  Consumer,Northbridge Bank,in,06/27/2020,06/27/2024,Active,2026-01-05
+CARD00504,Meridian Direct,Credit,Consumer,Pacific Rim Bank,US,2022-04-23,2026-04-23, Inactive,2026-01-05
+CARD00192,meridian direct,Debit,Consumer,Alta Financial  ,India,2023-11-27,46718,Active,2026-01-05
+CARD00218,Meridian Direct,Debit,Consumer,Alta Financial,AU,11/13/2021,2025-11-13,active,2026-01-05
+CARD00765,meridian primary,Debit,Consumer,Harbor National Bank,MX,2024-02-12,02/12/2028,Active,2026-01-05
+CARD00446,Meridian Affiliate,Debit,Consumer,Andes Financial Group,SG,2025-03-22,03/22/2029,Active,2026-01-05
+CARD00391,Meridian Affiliate,Credit,Consumer,EuroTrust Bank  ,MX,01/26/2019,26-01-2023,Active,2026-01-05
+CARD00055,Meridian Primary,Credit,Consumer,Harbor National Bank,us,2019-07-06,06-07-2023,Active,2026-01-05
+CARD00471,MERIDIAN PRIMARY,Debit,Consumer,Silverline Bank,FR,2019-01-29,2023-01-29,Blocked,2026-01-05
+CARD00372,Meridian Primary,Prepaid,Consumer,Ridgeway Bank,AU,05/21/2021,05/21/2025,ACTIVE,2026-01-05
+CARD00436,Meridian Direct,Credit,Consumer,Unity Trust Bank,DE,2024-11-26,2028-11-26,Inactive,2026-01-05
+CARD00750,Meridian  Primary,Debit,Consumer,Meridian Community Bank,DE,07/25/2022,2026-07-25,Active,2026-01-05
+CARD00535,MERIDIAN DIRECT,Prepaid,Consumer,  EuroTrust Bank,us,2021-07-30,2025-07-30, Active,2026-01-05
+CARD00710,MERIDIAN DIRECT,Debit,Consumer,Andes Financial Group,CA,2022-05-12,2026-05-12,Active,2026-01-05
+CARD00194,Meridian  Primary,Debit,Consumer,Gulf Horizon Bank,United States,2024-08-30,08/30/2028,Active,2026-01-05
+CARD00236,meridian direct,Debit,Consumer,Ridgeway Bank,DE,2023-09-04,2027-09-04,Inactive,2026-01-05
+CARD00680,Meridian Direct,Credit,Consumer,Meridian Community Bank,BR,2025-08-10,2029-08-10,Active ,2026-01-05
+CARD00056,Meridian Affiliate,Credit,Commercial,Silverline Bank,SG,04/22/2024,22-04-2028,Active,2026-01-05
+CARD00300,Meridian Primary,Credit,Consumer,Northbridge Bank  ,IN,2024-06-18,2028-06-18,Active,2026-01-05
+CARD00512,Meridian Primary,Debit,Consumer,Silverline Bank,India,19-11-2022,2026-11-19,Active,2026-01-05
+CARD00142,MERIDIAN PRIMARY,Debit,Consumer,Northbridge Bank,us,02/17/2025,2029-02-17,Expired,2026-01-05
+CARD00569,Meridian Affiliate,Credit,Consumer,Crestview Bank,MX,05/08/2025,2029-05-08,Active,2026-01-05
+CARD00702,Meridian Primary,Credit,Consumer,Andes Financial Group,FR,18-05-2021,2025-05-18,Expired,2026-01-05
+CARD00373,Meridian Primary,Debit,Consumer,Andes Financial Group,Brazil,07/17/2025,07/17/2029,Active,2026-01-05
+CARD00408,MERIDIAN PRIMARY,Credit,Consumer,Silverline Bank,United States,2025-03-15,2029-03-15,Active,2026-01-05
+CARD00121,Meridian Direct,Debit,NULL,Silverline Bank,AE,2024-01-16,2028-01-16,Active,2026-01-05
+CARD00473,Meridian Primary,Debit,Consumer,  Northbridge Bank,DE,45189,09/20/2027,ACTIVE,2026-01-05
+CARD00493,Meridian Primary,Debit,Consumer,EuroTrust Bank,DE,2022-02-04,46057,Active,2026-01-05
+CARD00035,Meridian Affiliate,Credit,Commercial,Silverline Bank,br,17-12-2019,17-12-2023,expired,2026-01-05
+CARD00612,Meridian  Direct,Credit,Consumer,Alta Financial,United States,2022-05-07,2026-05-07,Active,2026-01-05
+CARD00004,Meridian Primary,Debit,Consumer,Northbridge Bank,United Arab Emirates,2023-02-25,02/25/2027,Active,2026-01-05
+CARD00059,Meridian Primary,Debit,Consumer,Northbridge Bank,US,2021-02-27,27-02-2025,N/A,2026-01-05
+CARD00224,Meridian Primary,Prepaid,Consumer,Unity Trust Bank,mx,2024-07-20,07/20/2028,Active,2026-01-05
+CARD00488,Meridian  Primary,Credit,Consumer,EuroTrust Bank,CA,01/26/2023,01/26/2027, Active,2026-01-05
+CARD00102,meridian primary,Credit,Consumer,Ridgeway Bank,United States,43904,45365,ACTIVE,2026-01-05
+CARD00222,Meridian Primary,Credit,Consumer,Unity Trust Bank,United Kingdom,2023-07-10,07/10/2027,Active,2026-01-05
+CARD00621,meridian primary,Credit,Consumer,Gulf Horizon Bank,AU,2023-10-25,2027-10-25, Active,2026-01-05
+CARD00479,Meridian Affiliate,Credit,Commercial,Ridgeway Bank,AE,2021-08-25,25-08-2025,Active ,2026-01-05
+CARD00053,Meridian Affiliate,Credit,Consumer,Northbridge Bank,us,2025-02-12,2029-02-12,Active,2026-01-05
+CARD00018,Meridian Primary,Credit,Consumer,Silverline Bank,FR,2023-10-02,46662,active,2026-01-05
+CARD00156,meridian primary,Credit,Consumer,Unity Trust Bank,DE,45367,16-03-2028,Active,2026-01-05
+CARD00550,Meridian  Direct,Credit,Consumer,Gulf Horizon Bank,US,2023-11-07,2027-11-07,Active,2026-01-05
+CARD00249,Meridian Affiliate,Debit,Commercial,EuroTrust Bank,DE,2024-05-30,2028-05-30,Active,2026-01-05
+CARD00250,Meridian  Direct,Credit,Consumer,Pacific Rim Bank,MX,05/16/2020,05/16/2024,Active,2026-01-05
+CARD00664,Meridian Primary,Debit,Consumer,Pacific Rim Bank,JP,2021-06-03,2025-06-03,active,2026-01-05
+CARD00692,Meridian Primary,Credit,Consumer,Northbridge Bank,MX,02/01/2024,46784,active,2026-01-05
+CARD00031,Meridian Primary,Credit,Consumer,Unity Trust Bank,US,15-06-2024,2028-06-15,Active,2026-01-05
+CARD00636,Meridian Primary,Credit,Consumer,Silverline Bank,br,24-05-2023,24-05-2027,Active,2026-01-05
+CARD00782,meridian primary,Credit,Commercial  ,Silverline Bank,India,07/13/2019,2023-07-13,Active ,2026-01-05
+CARD00118,Meridian Primary,Prepaid,Consumer,Meridian Community Bank,AE,2025-03-29,29-03-2029,Active,2026-01-05
+CARD00748,Meridian Primary,Debit,Consumer,Unity Trust Bank,US,2025-08-16,2029-08-16,Active,2026-01-05
+CARD00117,Meridian Direct,Credit,Consumer,Crestview Bank,DE,2023-11-26,11/26/2027,active,2026-01-05
+  CARD00633,meridian primary,Credit,Commercial,Crestview Bank,CA,04/30/2022,2026-04-30,active,2026-01-05
+CARD00627,meridian primary,Credit,Consumer,Northbridge Bank,Japan,08/25/2025,2029-08-25,Expired,2026-01-05
+CARD00397,Meridian Direct,Prepaid,Commercial,Andes Financial Group,US,44473,2025-10-04,Active ,2026-01-05
+CARD00028,Meridian Primary,Credit,Consumer,Meridian Community Bank,DE,2024-08-26,08/26/2028,Active,2026-01-05
+CARD00505,Meridian Direct,Debit,Consumer,Ridgeway Bank,MX,07/25/2019,25-07-2023,Active,2026-01-05
+CARD00201,Meridian  Primary,Credit,Commercial,Harbor National Bank,GB,01/26/2025,47144,Active,2026-01-05
+CARD00409,meridian affiliate,Credit,Consumer,Ridgeway Bank,JP,06/25/2022,06/25/2026,Active,2026-01-05
+CARD00733,Meridian Primary,Debit,Consumer,Harbor National Bank,AU,2019-06-11,06/11/2023,Active,2026-01-05
+CARD00769,Meridian  Primary,Debit,Consumer,Andes Financial Group,Germany,2019-05-07,2023-05-07,Active ,2026-01-05
+CARD00603,Meridian Primary,Credit,Consumer,Crestview Bank,Germany,2021-01-28,01/28/2025,ACTIVE,2026-01-05
+CARD00319,Meridian Primary,Credit,Consumer,Northbridge Bank,Australia,2019-02-11,44968,Active ,2026-01-05
+CARD00281,Meridian Direct,Debit,Consumer,Silverline Bank,France,43774,05-11-2023,Inactive,2026-01-05
+ CARD00770 ,Meridian Direct,Credit,Consumer,Andes Financial Group,US,45126,19-07-2027,Active,2026-01-05
+CARD00691,Meridian Primary,Credit,Consumer,Alta Financial,CA,2019-10-18,10/18/2023,Active,2026-01-05
+CARD00208,Meridian Primary,Debit,Consumer,Silverline Bank,BR,07/24/2020,2024-07-24,Active,2026-01-05
+CARD00645,Meridian  Primary,Debit,Commercial,EuroTrust Bank,IN,17-07-2020,2024-07-17,Active,2026-01-05
+CARD00024,Meridian  Primary,Credit,Commercial,Harbor National Bank,AU,05-01-2025,2029-01-05,active,2026-01-05
+CARD00565,Meridian Primary,Debit,Consumer,Gulf Horizon Bank,IN,2019-09-28,2023-09-28,Active ,2026-01-05
+CARD00609,meridian primary,Debit,Consumer,Ridgeway Bank,United States,43716,08-09-2023,Active,2026-01-05
+CARD00155,Meridian Affiliate,Credit,Commercial,Ridgeway Bank,United States,2022-02-27,46080,Active ,2026-01-05
+CARD00700,MERIDIAN PRIMARY,Debit,Consumer,Meridian Community Bank,CA,02/20/2024,2028-02-20,expired,2026-01-05
+CARD00592,Meridian Primary,Credit,Commercial,Meridian Community Bank,in,2021-10-05,05-10-2025,Blocked,2026-01-05
+CARD00639,Meridian Primary,Credit,Consumer,Silverline Bank,gb,03/03/2024,03/03/2028,active,2026-01-05
+CARD00732,Meridian Direct,Debit,Consumer,Gulf Horizon Bank,IN,2022-04-21,2026-04-21,active,2026-01-05
+CARD00578,Meridian Affiliate,Credit,Consumer,Ridgeway Bank,Singapore,06/25/2020,2024-06-25,Active,2026-01-05
+CARD00456,Meridian Primary,Credit,Consumer,Northbridge Bank,AU,24-10-2020,2024-10-24,Active,2026-01-05
+CARD00431,Meridian Primary,Debit,Consumer,Alta Financial,Japan,11/11/2022,2026-11-11,Active,2026-01-05
+CARD00263,Meridian Primary,Debit,Consumer,Unity Trust Bank,IN,10/04/2023,2027-10-04,-,2026-01-05
+CARD00083,Meridian Primary,Credit,Consumer,Unity Trust Bank,BR,06/29/2025,06/29/2029,Active,2026-01-05
+CARD00404,Meridian Direct,Credit,Consumer,Ridgeway Bank,United Kingdom,2023-06-08,06/08/2027,active,2026-01-05
+CARD00432,Meridian  Direct,Credit,Consumer,Crestview Bank,Australia,2021-04-04,04-04-2025,Active,2026-01-05
+CARD00039,Meridian Direct,Debit,Commercial,Silverline Bank,us,2020-03-25,2024-03-25,ACTIVE,2026-01-05
+CARD00718,meridian affiliate,Debit,Consumer,Ridgeway Bank,Mexico,2022-02-18,2026-02-18,Active,2026-01-05
+CARD00334,MERIDIAN PRIMARY,Credit,Consumer,Ridgeway Bank,ae,2025-09-06,09/06/2029,Active,2026-01-05
+CARD00011,Meridian Primary,Prepaid,Commercial,EuroTrust Bank,Germany,07/08/2021,45846,Inactive,2026-01-05
+CARD00732,Meridian Direct,Debit,Consumer,Gulf Horizon Bank,IN,2022-04-21,2026-04-21,active,2026-01-05
+CARD00320,Meridian Primary,Credit,Consumer,Meridian Community Bank,BR,2020-05-03,2024-05-03,Blocked,2026-01-05
+CARD00033,Meridian Primary,Credit,Consumer,Crestview Bank,United States,2022-12-08,12/08/2026, Active,2026-01-05
+CARD00713,Meridian Primary,Prepaid,Consumer,Meridian Community Bank,Canada,2024-09-18,2028-09-18,ACTIVE,2026-01-05
+CARD00554,Meridian Primary,Debit,Consumer,Harbor National Bank,Japan,2024-08-23,2028-08-23, Active,2026-01-05
+CARD00282,meridian primary,Credit,Commercial,EuroTrust Bank,Singapore,2022-11-22,22-11-2026,Active ,2026-01-05
+CARD00460,Meridian Primary,Debit,Consumer,Ridgeway Bank,US,01/16/2022,2026-01-16,ACTIVE,2026-01-05
+CARD00730,Meridian Primary,Credit,Consumer,Harbor National Bank,Japan,03/31/2024,2028-03-31,Active,2026-01-05
+CARD00474,Meridian Direct,Credit,Commercial,Pacific  Rim Bank,IN,2025-04-17,2029-04-17,Active,2026-01-05
+CARD00737,Meridian Primary,Credit,Consumer,Andes Financial Group,IN,20-07-2022,46223,active,2026-01-05
+CARD00502,Meridian Primary,Prepaid,Consumer,Ridgeway Bank,US,2024-06-04,04-06-2028,Active,2026-01-05
+CARD00424,Meridian Primary,Prepaid,Consumer,Silverline Bank,jp,20-01-2022,2026-01-20, Active,2026-01-05
+CARD00090,Meridian Primary,Credit,Consumer,Ridgeway Bank,United Kingdom,12-02-2025,12-02-2029, Active,2026-01-05
+CARD00214,Meridian Primary,Credit,Consumer,Alta Financial,FR,44009,27-06-2024,Inactive,2026-01-05
+CARD00322,Meridian Direct,Prepaid,Consumer,Andes Financial Group,Germany,43912,22-03-2024,ACTIVE,2026-01-05
+CARD00682,Meridian Primary,Credit,Consumer,Northbridge Bank,BR,2025-09-28,2029-09-28,Active,2026-01-05
+CARD00134,Meridian Primary,Credit,Consumer,Ridgeway Bank,US,15-01-2022,2026-01-15,Active,2026-01-05
+CARD00347,Meridian Primary,Debit,Consumer,Gulf Horizon Bank,US,10-05-2025,2029-05-10,EXPIRED,2026-01-05
+CARD00500,Meridian Affiliate,Debit,Consumer,Alta Financial,JP,45127,46588,Active,2026-01-05
+CARD00008,Meridian Direct,Prepaid,Consumer,EuroTrust Bank,IN,2022-05-17,2026-05-17,Active,2026-01-05
+CARD00478,Meridian Primary,Prepaid,Consumer,Andes Financial Group,Japan,2023-09-06,2027-09-06,Active ,2026-01-05
+CARD00736,MERIDIAN DIRECT,Credit,Consumer,EuroTrust Bank,US,2019-12-11,11-12-2023,Active,2026-01-05
+CARD00665,MERIDIAN PRIMARY,Prepaid,Consumer,Meridian Community Bank  ,de,2023-02-22,22-02-2027,ACTIVE,2026-01-05
+CARD00188,Meridian Primary,Credit,Consumer,EuroTrust Bank,India,02/10/2024,2028-02-10,Inactive,2026-01-05
+CARD00123,Meridian Primary,Debit,Consumer,EuroTrust Bank,us,2021-09-21,09/21/2025,active,2026-01-05
+CARD00041,Meridian  Primary,Credit,Consumer,Ridgeway Bank,India,2024-02-27,46810,Active,2026-01-05
+CARD00305,MERIDIAN DIRECT,Prepaid,Consumer,Crestview Bank,US,08/09/2022,2026-08-09, Active,2026-01-05
+CARD00419,Meridian Primary,Debit,Consumer,Andes Financial Group,BR,44045,2024-08-02,active,2026-01-05
+CARD00670,Meridian Primary,Debit, Consumer ,Pacific Rim Bank,France,2023-11-25,2027-11-25,Active,2026-01-05
+CARD00173,MERIDIAN PRIMARY,Debit,Commercial,Pacific Rim Bank,jp,29-05-2020,2024-05-29,Active,2026-01-05
+CARD00285,Meridian Primary,Prepaid,Consumer,Meridian Community Bank,Germany,08/12/2021,12-08-2025, Active,2026-01-05
+CARD00717,meridian direct,Debit,Consumer,Unity Trust Bank,India,2022-12-12,12-12-2026,Active,2026-01-05
+CARD00241,meridian affiliate,Credit,Consumer,Gulf Horizon Bank,IN,03/13/2020,13-03-2024,Active,2026-01-05
+CARD00657,Meridian Primary,Debit,Consumer,Unity Trust Bank,IN,2021-07-17,2025-07-17,Active,2026-01-05
+CARD00526,Meridian Primary,Credit,Consumer,Andes Financial Group,MX,01/04/2021,04-01-2025,ACTIVE,2026-01-05
+CARD00486,MERIDIAN AFFILIATE,Credit,Consumer,Andes Financial Group,Germany,2023-06-02,02-06-2027,ACTIVE,2026-01-05
+CARD00570,Meridian  Primary,Credit,Consumer,Crestview Bank,IN,2024-10-29,2028-10-29,Active,2026-01-05
+CARD00246,Meridian Affiliate,Debit,Consumer,Unity Trust Bank,Canada,2019-07-11,07/11/2023,ACTIVE,2026-01-05
+CARD00057,Meridian Primary,Credit,Consumer,Silverline Bank,in,2019-11-24,24-11-2023,Active,2026-01-05
+CARD00650,Meridian Primary,Debit,Consumer,Pacific Rim Bank,US,05/31/2021,05/31/2025,Active,2026-01-05
+CARD00072,Meridian Primary,Credit,Commercial,Silverline Bank,US,2025-06-03,06/03/2029,Active,2026-01-05
+CARD00608,Meridian Primary,Debit,Commercial,Harbor National Bank,US,2021-03-26,26-03-2025,Active,2026-01-05
+CARD00146,Meridian  Primary,Credit,Consumer,Meridian Community Bank,GB,2022-09-08,2026-09-08,Active,2026-01-05
+CARD00091,Meridian Primary,Debit,Consumer,Alta Financial,US,45674,2029-01-17,BLOCKED,2026-01-05
+CARD00167,Meridian Primary,Debit,Consumer,EuroTrust Bank,MX,25-08-2019,2023-08-25,ACTIVE,2026-01-05
+CARD00494,Meridian Primary,Debit,Consumer,Crestview Bank,US,21-01-2025,2029-01-21,Expired,2026-01-05
+CARD00171,Meridian Primary,Debit,Consumer,Meridian Community Bank,JP,11/08/2022,11/08/2026,Active,2026-01-05
+CARD00311,Meridian Primary,Debit,Consumer,Andes Financial Group,US,2023-03-21,2027-03-21, Active,2026-01-05
+CARD00472,Meridian Affiliate,Debit,Consumer,Andes Financial Group,Japan,2019-07-10,2023-07-10,ACTIVE,2026-01-05
+CARD00360,MERIDIAN PRIMARY,Credit,Consumer,Andes Financial Group,SG,2023-12-08,2027-12-08,ACTIVE,2026-01-05
+CARD00094,Meridian  Primary,Credit,Consumer, Andes Financial Group ,DE,11/23/2020,23-11-2024,Active,2026-01-05
+CARD00483,Meridian Primary,Debit,Consumer,Pacific Rim Bank,SG,2024-05-19,2028-05-19,ACTIVE,2026-01-05
+CARD00708,Meridian  Direct,Credit,-,Alta Financial,GB,15-12-2021,12/15/2025,Active,2026-01-05
+CARD00607,meridian primary,Debit,Consumer,Crestview Bank,US,2022-08-13,2026-08-13, Active,2026-01-05
+CARD00377,Meridian Direct,Debit,Consumer,Ridgeway Bank,FR,45615,2028-11-19,Active,2026-01-05
+CARD00244,Meridian Primary,Debit,Consumer,Alta Financial,US,2020-08-04,2024-08-04,NULL,2026-01-05
+CARD00088,Meridian Primary,Credit,Consumer,Northbridge Bank,US,2025-07-06,06-07-2029, Active,2026-01-05
+CARD00215,Meridian Direct,Debit,Consumer,EuroTrust Bank,Canada,05/06/2022,06-05-2026, Active,2026-01-05
+CARD00345,Meridian Primary,Credit,Consumer,EuroTrust Bank,DE,2022-08-25,2026-08-25, Active,2026-01-05
+CARD00174,Meridian Primary,Credit,Commercial,Alta Financial,US,02/22/2024,2028-02-22,Inactive,2026-01-05
+CARD00641,Meridian Primary,Prepaid,Consumer,Ridgeway Bank,Canada,2019-08-10,08/10/2023,active,2026-01-05
+CARD00292,Meridian Primary,Debit,Consumer,unknown,GB,11/01/2024,2028-11-01,active,2026-01-05
+CARD00626,Meridian Primary,Prepaid,Consumer,Pacific Rim Bank,SG,2023-06-06,2027-06-06,Active ,2026-01-05
+CARD00119,Meridian Direct,Debit,Commercial,Pacific Rim Bank,United States,17-07-2025,2029-07-17,Active,2026-01-05
+CARD00120,Meridian Primary,Credit,Consumer,Ridgeway Bank,IN,08/28/2022,2026-08-28,Expired,2026-01-05
+CARD00164,Meridian Primary,Credit,Consumer,Northbridge Bank,US,2023-08-01,01-08-2027,Active,2026-01-05
+CARD00515,Meridian  Primary,Credit,Consumer,Alta Financial,IN,2020-10-10,2024-10-10,Blocked,2026-01-05
+CARD00385,meridian direct,Credit,Consumer,Alta Financial,India,44205,2025-01-09,ACTIVE,2026-01-05
+CARD00532,meridian affiliate,Debit,Consumer,unknown,US,10/31/2022,10/31/2026, Active,2026-01-05
+CARD00395,Meridian Primary,Credit,Consumer, Pacific Rim Bank ,United Kingdom,10/31/2023,31-10-2027,Active,2026-01-05
+CARD00402,Meridian Affiliate,Credit,Consumer,Alta Financial,IN,2024-05-01,01-05-2028,Active,2026-01-05
+CARD00405,MERIDIAN PRIMARY,Credit,Consumer,Crestview Bank,India,05/08/2023,46515, Active,2026-01-05
+CARD00651,Meridian  Primary,Credit,Consumer,EuroTrust Bank,IN,2022-12-08,46364,Active,2026-01-05
+CARD00492,Meridian Primary,Credit,Commercial,EuroTrust Bank,Brazil,2021-09-18,09/18/2025, Active,2026-01-05
+CARD00163,Meridian Primary,Credit,Consumer,Northbridge Bank,GB,2025-06-25,06/25/2029,Active,2026-01-05
+CARD00321  ,MERIDIAN PRIMARY,Debit,Consumer,Unity Trust Bank,IN,03-10-2022,2026-10-03,Active,2026-01-05
+CARD00115,meridian primary,Debit,Consumer,Crestview Bank,MX,15-10-2019,10/15/2023,Active,2026-01-05
+CARD00159,Meridian Primary,Credit,Consumer,Unity Trust Bank,MX,2024-09-07,2028-09-07,Expired,2026-01-05
+CARD00151,Meridian Affiliate,Debit,Consumer,Unity Trust Bank,France,2022-10-07,07-10-2026,Active,2026-01-05
+CARD00566,Meridian Primary,Credit,Commercial,Silverline Bank,JP,2025-01-09,2029-01-09,Active,2026-01-05
+CARD00418,MERIDIAN PRIMARY,Debit,Commercial,Unity Trust Bank,AU,2020-04-19,04/19/2024,Active,2026-01-05
+CARD00602,Meridian Primary,Credit,Consumer,Pacific Rim Bank,US,2024-10-13,13-10-2028,Active,2026-01-05
+CARD00369,Meridian Primary,Credit,Consumer,Silverline Bank,United States,2020-05-13,05/13/2024,Blocked,2026-01-05
+CARD00032,Meridian  Primary,Credit,Consumer,Alta Financial,Singapore,2020-03-05,2024-03-05,Active,2026-01-05
+CARD00378,Meridian Primary,Credit,Consumer,Andes Financial Group,United Arab Emirates,01/02/2022,2026-01-02,ACTIVE,2026-01-05
+CARD00795  ,Meridian Primary,Debit,Commercial,Pacific Rim Bank,US,45163,2027-08-25,Active,2026-01-05
+CARD00021,Meridian Primary,Debit,Consumer,Meridian Community Bank,IN,2021-02-14,2025-02-14,Expired,2026-01-05
+CARD00114,MERIDIAN DIRECT,Credit,Consumer,Ridgeway Bank,Mexico,2020-01-25,2024-01-25,Active,2026-01-05
+CARD00701,Meridian Primary,Credit,Consumer,Andes Financial Group,France,2020-07-11,2024-07-11,Active,2026-01-05
+CARD00001,Meridian Primary,Debit,Consumer,Meridian Community Bank,CA,2019-02-21,02/21/2023,Blocked,2026-01-05
+CARD00599  ,Meridian Primary,Debit,Consumer,Alta Financial,FR,02/28/2025,2029-02-28,Blocked,2026-01-05
+CARD00689,Meridian  Direct,Credit,Consumer,Harbor National Bank,GB,2023-11-17,46708,Active,2026-01-05
+CARD00771,Meridian Primary,Debit,Consumer,Andes Financial Group,CA,2024-12-17,12/17/2028,Active,2026-01-05
+CARD00548,MERIDIAN PRIMARY,Credit,Consumer,Andes Financial Group,United States,08/27/2023,46626,Active,2026-01-05
+CARD00541,Meridian Affiliate,Credit,Consumer,Northbridge Bank,SG,05/18/2021,18-05-2025,Active ,2026-01-05
+CARD00259,Meridian Primary,Credit,Consumer,Silverline Bank,SG,2024-04-19,2028-04-19,Active,2026-01-05
+CARD00784,Meridian Primary,Credit,Consumer,Unity Trust Bank,France,22-01-2023,01/22/2027,Active ,2026-01-05
+CARD00315,MERIDIAN DIRECT,Debit,Consumer,Andes Financial Group,Australia,12/17/2020,2024-12-17,Active,2026-01-05
+CARD00687,meridian primary,Credit,Commercial,Meridian Community Bank,IN,12-11-2024,2028-11-12,Active,2026-01-05
+CARD00136,MERIDIAN PRIMARY,Credit,  Commercial,Crestview Bank,us,04/11/2022,11-04-2026,active,2026-01-05
+CARD00544,Meridian Primary,Debit,Consumer,EuroTrust Bank,US,2025-05-09,09-05-2029,Active,2026-01-05
+CARD00005,Meridian  Primary,Credit,Consumer,Northbridge Bank,DE,2024-03-30,03/30/2028,Active,2026-01-05
+CARD00558,Meridian Primary,Credit,Consumer,EuroTrust Bank,BR,05/20/2024,2028-05-20,Active ,2026-01-05
+CARD00325,Meridian Affiliate,Debit,Consumer,Ridgeway Bank,GB,2023-03-12,2027-03-12,Active,2026-01-05
+CARD00331,Meridian Primary,Debit,Consumer,Northbridge Bank,FR,2022-04-27,04/27/2026,Active,2026-01-05
+CARD00790,meridian affiliate,Debit,Consumer,Crestview Bank,India,44268,2025-03-13,Active,2026-01-05
+CARD00340,Meridian Primary,Debit,Consumer,Gulf Horizon Bank,MX,05/16/2025,16-05-2029,Active,2026-01-05
+CARD00298,Meridian  Primary,Credit,Consumer,Northbridge Bank,AU,2021-03-07,07-03-2025,Active,2026-01-05
+CARD00081,Meridian  Direct,Credit,Consumer,Ridgeway Bank,CA,2024-03-21,21-03-2028,Active,2026-01-05
+CARD00695,Meridian Primary,Debit,Consumer,Harbor National Bank,JP,2019-11-19,19-11-2023,ACTIVE,2026-01-05
+CARD00027,Meridian Primary,Credit,Consumer,Crestview Bank,United Arab Emirates,2020-08-15,2024-08-15,Active,2026-01-05
+CARD00686,Meridian Primary,Credit,Consumer,Silverline Bank,India,44025,2024-07-13,Inactive,2026-01-05
+CARD00217,Meridian  Primary,Credit,Consumer,Andes Financial Group,CA,2025-03-22,03/22/2029,Active,2026-01-05
+CARD00604,meridian primary,Debit,Consumer,None,FR,2021-06-29,06/29/2025,Active,2026-01-05
+CARD00344,meridian primary,Debit,Consumer,Andes Financial Group,in,02/11/2023,2027-02-11,Active,2026-01-05
+CARD00588,Meridian Primary,Credit,Consumer,Harbor National Bank,United States,2022-07-25,2026-07-25,Active,2026-01-05
+CARD00506,Meridian  Primary,Debit,Consumer,Gulf Horizon Bank,DE,45742,2029-03-26,INACTIVE,2026-01-05
+CARD00365,Meridian Affiliate,Credit,Consumer,Ridgeway Bank,in,05/02/2025,47240,Active ,2026-01-05
+CARD00499,MERIDIAN AFFILIATE,Debit,Consumer,Andes  Financial Group,MX,06-03-2023,2027-03-06,Active,2026-01-05
+CARD00148,Meridian Primary,Prepaid,Consumer,Unity Trust Bank,Germany,2020-06-18,18-06-2024,active,2026-01-05
+  CARD00015,meridian primary,Debit,Consumer,Harbor National Bank,France,2020-03-16,03/16/2024,inactive,2026-01-05
+CARD00175,Meridian Primary,Credit,Consumer,Crestview Bank,IN,2021-05-17,2025-05-17,Active,2026-01-05
+CARD00087,Meridian Direct,Debit,Commercial,Unity Trust Bank  ,US,2025-03-09,2029-03-09,Active,2026-01-05
+CARD00371,Meridian Primary,Debit,Consumer,Pacific Rim Bank,US,07-02-2022,2026-02-07,Active,2026-01-05
+CARD00166,Meridian Direct,Credit,Consumer,Northbridge Bank,GB,2023-12-04,2027-12-04,Active ,2026-01-05
+CARD00714,Meridian  Primary,Credit,Consumer,EuroTrust Bank,US,09/03/2019,2023-09-03,Active ,2026-01-05
+CARD00336,Meridian Primary,Credit,Consumer,Silverline Bank,United States,2024-12-21,12/21/2028,Active,2026-01-05
+CARD00060,Meridian Primary,Credit,Consumer,Alta Financial,India,08/16/2021,2025-08-16,Expired,2026-01-05
+CARD00703,Meridian Primary,Credit,Consumer,Silverline Bank,IN,2021-06-24,24-06-2025,ACTIVE,2026-01-05
+CARD00591  ,Meridian Primary,Credit,Consumer,EuroTrust Bank  ,United Kingdom,2019-03-18,2023-03-18,Active,2026-01-05
+CARD00165,Meridian Primary,Credit,Consumer,Northbridge Bank,IN,2022-09-20,09/20/2026,Active,2026-01-05
+CARD00355,meridian primary,Debit,Commercial,Ridgeway Bank,US,28-02-2019,2023-02-28, Active,2026-01-05
+CARD00516,MERIDIAN PRIMARY,Debit,Consumer,Meridian Community Bank,Brazil,2023-12-23,23-12-2027,Active ,2026-01-05
+CARD00425,Meridian Primary,Credit,Consumer,Ridgeway Bank,gb,2019-11-02,11/02/2023,Inactive,2026-01-05
+CARD00293,Meridian Direct,Debit,Consumer,EuroTrust Bank,FR,2025-03-05,2029-03-05,blocked,2026-01-05
+CARD00042,MERIDIAN PRIMARY,Debit,Consumer,Silverline Bank,US,03/07/2019,2023-03-07,Active,2026-01-05
+CARD00362,Meridian  Primary,Credit,Consumer,Harbor National Bank,FR,2020-01-27,45318,Active,2026-01-05
+CARD00330,Meridian Primary,Credit,Consumer,-,Japan,01/04/2023,46391,Active,2026-01-05
+ CARD00552 ,Meridian  Direct,Debit,Consumer,Alta Financial  ,DE,2025-09-12,09/12/2029,Active,2026-01-05
+CARD00430,Meridian Primary,Credit,Consumer,EuroTrust Bank,BR,25-03-2025,2029-03-25,ACTIVE,2026-01-05
+CARD00080,Meridian  Primary,Credit,Consumer,Northbridge Bank,United States,2020-05-08,2024-05-08,Active,2026-01-05
+CARD00572,Meridian Direct,Credit,Consumer,Gulf Horizon Bank,jp,2025-04-24,2029-04-24,active,2026-01-05
+CARD00029,meridian primary,Debit,Consumer,Meridian Community Bank,United States,24-01-2025,47142,Active,2026-01-05
+CARD00426,Meridian Primary,Debit,Consumer,Silverline Bank,India,45437,25-05-2028,Active,2026-01-05
+CARD00514,Meridian Direct,Debit,Commercial,Harbor National Bank,IN,2025-06-30,06/30/2029,INACTIVE,2026-01-05
+CARD00545,Meridian Primary,Debit,Consumer,Crestview Bank,India,2021-02-20,02/20/2025,Active,2026-01-05
+CARD00674,Meridian Primary,Credit,Consumer,Harbor National Bank,Germany,2020-12-21,2024-12-21,Active,2026-01-05
+CARD00323,Meridian Primary,Debit,Consumer,Meridian Community Bank,Australia,08-06-2020,06/08/2024,Active,2026-01-05
+CARD00238,Meridian Primary,Debit,Consumer,Ridgeway Bank,AU,2023-05-29,2027-05-29,Active,2026-01-05
+CARD00379,Meridian Direct,Debit,Commercial,Ridgeway Bank,US,08-07-2024,07/08/2028,Active,2026-01-05
+CARD00255,Meridian Primary,Prepaid,Commercial,Pacific Rim Bank,AU,01/28/2025,2029-01-28,Active,2026-01-05
+CARD00606,Meridian Primary,Credit,Commercial,Gulf Horizon Bank,United States,44870,2026-11-05,ACTIVE,2026-01-05
+CARD00459,Meridian Primary,Credit,Consumer,Gulf Horizon Bank,US,2024-01-02,2028-01-02,Active,2026-01-05
+CARD00797,Meridian Affiliate,Credit,Consumer,Alta Financial,BR,10/05/2022,10/05/2026,active,2026-01-05
+CARD00384,meridian direct,Prepaid,Consumer,Harbor National Bank,JP,07/17/2024,17-07-2028,Active,2026-01-05
+CARD00314,MERIDIAN AFFILIATE,Credit,Consumer,Ridgeway Bank,GB,2023-03-15,03/15/2027,Active,2026-01-05
+CARD00085,Meridian Primary,Debit,Consumer,NULL,IN,2022-01-30,2026-01-30,Active,2026-01-05
+CARD00063,MERIDIAN DIRECT,Credit,Commercial,Meridian Community Bank,in,2019-08-23,08/23/2023,active,2026-01-05
+CARD00793,Meridian Primary,Credit,Consumer  ,Andes Financial Group,SG,2022-08-10,08/10/2026,Active,2026-01-05
+CARD00137,Meridian Primary,Credit,Consumer,Pacific Rim Bank,Mexico,45212,2027-10-13,Expired,2026-01-05
+CARD00112,Meridian Primary,Credit,unknown,Meridian Community Bank,AE,2021-04-04,2025-04-04,Active,2026-01-05
+CARD00195,Meridian Primary,Credit,Consumer,Northbridge Bank,Mexico,2024-06-30,06/30/2028,Active,2026-01-05
+CARD00341,Meridian Primary,Debit,Consumer,Northbridge Bank,AU,11-01-2021,2025-01-11,active,2026-01-05
+CARD00179,Meridian Affiliate,Credit,Consumer,Crestview Bank,BR,2021-06-23,06/23/2025,Active ,2026-01-05
+CARD00044,Meridian Affiliate,Prepaid,Consumer,Pacific Rim Bank,au,03/08/2020,03/08/2024,Active,2026-01-05
+CARD00594,Meridian Primary,Credit,Consumer,Andes Financial Group,CA,18-05-2024,2028-05-18,Active,2026-01-05
+CARD00348,MERIDIAN PRIMARY,Debit,Consumer,Pacific Rim Bank,JP,19-08-2023,2027-08-19,Active,2026-01-05
+CARD00458,Meridian Primary,Credit,Consumer,Ridgeway Bank,au,2021-11-19,11/19/2025,Active,2026-01-05
+CARD00497,Meridian Primary,Credit,Consumer,EuroTrust Bank,US,04/23/2020,2024-04-23,Active,2026-01-05
+CARD00683,Meridian Primary,Credit,Consumer,Alta Financial,FR,08/09/2022,09-08-2026,active,2026-01-05
+CARD00628,Meridian Direct,Prepaid,Consumer,Meridian Community Bank,India,2019-12-23,12/23/2023,Active,2026-01-05
+CARD00294,meridian primary,Credit,Consumer,Alta Financial,DE,2023-02-13,2027-02-13,Active,2026-01-05
+CARD00130,MERIDIAN PRIMARY,Credit,Consumer,Unity Trust Bank,AU,2025-07-23,2029-07-23,active,2026-01-05
+CARD00734,Meridian Primary,Credit,  Consumer,Alta Financial,United States,2020-09-27,27-09-2024,Expired,2026-01-05
+CARD00338,Meridian  Direct,Credit,Consumer,Gulf Horizon Bank,IN,2021-11-02,11/02/2025,Active,2026-01-05
+CARD00219,Meridian Primary,Prepaid,Consumer,Harbor National Bank,DE,03/26/2022,03/26/2026,Active,2026-01-05
+CARD00097,Meridian Primary,Credit,Consumer,Unity Trust Bank,United States,12/20/2022,20-12-2026,Active,2026-01-05
+CARD00125,Meridian Primary,Credit,  Consumer,Andes Financial Group,US,2019-05-01,01-05-2023,Active,2026-01-05
+CARD00772,Meridian Direct,Credit,Consumer,Ridgeway Bank,Germany,03/27/2024,27-03-2028, Active,2026-01-05
+CARD00227,Meridian Affiliate,Debit,Consumer,Unity Trust Bank,AU,2022-09-20,20-09-2026,Active,2026-01-05
+CARD00269,Meridian Primary,Credit,Consumer,Pacific Rim Bank,United States,31-05-2025,05/31/2029,Active,2026-01-05
+CARD00786,Meridian Affiliate,Credit,Consumer,-,MX,2024-12-07,07-12-2028,Active ,2026-01-05
+CARD00104,Meridian Primary,Debit,Consumer,Northbridge Bank,GB,08/07/2025,07-08-2029,-,2026-01-05
+CARD00693,Meridian Primary,Credit,Consumer,Gulf Horizon Bank,br,12/22/2021,2025-12-22,Active,2026-01-05
+CARD00228,Meridian  Primary,Debit,Commercial,Meridian Community Bank,DE,03-11-2024,47060,Active,2026-01-05
+CARD00716,Meridian Affiliate,Credit,Consumer,Silverline Bank,MX,22-09-2019,2023-09-22,Active,2026-01-05
+CARD00302  ,Meridian Primary,Prepaid,Consumer,Gulf Horizon Bank,DE,06/30/2025,2029-06-30, Active,2026-01-05
+CARD00276,Meridian Primary,Credit,Consumer,Harbor National Bank,CA,07/07/2022,2026-07-07,Active,2026-01-05
+CARD00127,Meridian Direct,Credit,Consumer,Ridgeway Bank,United States,09/28/2024,2028-09-28,Active,2026-01-05
+CARD00406,Meridian Direct,Debit,Consumer,Ridgeway Bank,AU,2021-07-11,2025-07-11,Active,2026-01-05
+CARD00721,MERIDIAN AFFILIATE,Credit,Commercial,Unity Trust Bank,US,2025-03-22,2029-03-22,Active,2026-01-05
+CARD00037,Meridian Primary,Prepaid,Consumer, Silverline Bank ,US,2021-02-16,2025-02-16,Active,2026-01-05
+CARD00140,Meridian Affiliate,Debit,Consumer, Crestview Bank ,Japan,2024-03-11,46823,Active,2026-01-05
+CARD00304,Meridian Primary,Prepaid,Consumer,Crestview Bank,BR,2022-09-19,2026-09-19,Active,2026-01-05
+CARD00268,MERIDIAN DIRECT,Credit,Consumer,Pacific Rim Bank,SG,09/19/2025,2029-09-19,Active,2026-01-05
+ CARD00213 ,Meridian Primary,Prepaid,Consumer,Unity Trust Bank,GB,06/18/2020,45461,Active,2026-01-05
+CARD00469,Meridian Primary,Debit,Consumer,Crestview Bank,DE,2025-09-15,2029-09-15,active,2026-01-05
+CARD00199,meridian direct,Prepaid,Consumer,Unity Trust Bank,US,2024-09-11,2028-09-11,Active,2026-01-05
+CARD00528,Meridian Primary,Debit,Consumer,Andes Financial Group,Mexico,23-04-2021,23-04-2025,Active,2026-01-05
+CARD00643,Meridian Primary,Debit,Consumer,Meridian Community Bank,US,43631,15-06-2023, Active,2026-01-05
+CARD00242,meridian affiliate,Debit,Consumer,EuroTrust Bank,de,2023-06-14,2027-06-14,expired,2026-01-05
+CARD00343,Meridian Primary,Debit,Consumer,Meridian Community Bank,BR,2019-11-10,11/10/2023,Active,2026-01-05
+CARD00387,Meridian  Primary,Debit,Consumer,Andes Financial Group,GB,45421,2028-05-09,Active ,2026-01-05
+CARD00697,Meridian Primary,Debit,Consumer,Pacific Rim Bank,GB,08-03-2022,2026-03-08,ACTIVE,2026-01-05
+CARD00207 ,Meridian Primary,Debit,Consumer,EuroTrust Bank,GB,2020-01-31,31-01-2024,Active,2026-01-05
+CARD00296,Meridian Primary,Credit,Consumer,Andes Financial Group,br,2025-05-14,05/14/2029,Active,2026-01-05
+CARD00622,MERIDIAN PRIMARY,Credit,Consumer  ,EuroTrust Bank,United States,13-05-2024,2028-05-13,active,2026-01-05
+CARD00074,Meridian  Direct,Credit,Consumer,Silverline Bank,SG,27-11-2019,11/27/2023,active,2026-01-05
+CARD00105,meridian affiliate,Credit,Consumer,Silverline Bank,AE,05/12/2020,2024-05-12,Active ,2026-01-05
+CARD00660,Meridian Primary,Debit,Consumer,Harbor National Bank,IN,2020-06-06,2024-06-06,Active,2026-01-05
+CARD00775,Meridian Direct,Credit,Consumer,Silverline Bank,CA,06/18/2021,06/18/2025,Active,2026-01-05
+CARD00017,Meridian Primary,Debit,Commercial,Alta Financial,IN,17-02-2021,2025-02-17,Active ,2026-01-05
+CARD00440,Meridian Primary,Credit,N/A,Northbridge Bank,India,02/12/2019,2023-02-12,ACTIVE,2026-01-05
+CARD00092,Meridian Direct,Debit,Consumer,EuroTrust Bank,DE,2021-11-25,2025-11-25,Active ,2026-01-05
+CARD00089,meridian direct,Credit,  Consumer,Unity Trust Bank,US,07/24/2024,2028-07-24,Active ,2026-01-05
+CARD00451,Meridian Direct,Debit,Consumer,Crestview Bank,US,2024-12-03,2028-12-03,Active,2026-01-05
+CARD00103,Meridian Primary,Credit,Consumer,Silverline Bank,US,2023-01-21,21-01-2027,Active,2026-01-05
+CARD00239,Meridian Primary,Credit,Commercial,Alta Financial,India,2022-09-02,2026-09-02,ACTIVE,2026-01-05
+CARD00783,meridian primary,Debit,Commercial,Harbor National Bank,IN,03/02/2021,2025-03-02,Inactive,2026-01-05
+CARD00247,Meridian Primary,Credit,Consumer,EuroTrust Bank,Japan,2024-08-28,08/28/2028,Active,2026-01-05
+CARD00579,Meridian Primary,Credit,Consumer,Northbridge Bank,BR,2021-07-20,2025-07-20,active,2026-01-05
+CARD00158,Meridian Direct,Credit,Consumer,Pacific Rim Bank,us,2020-12-15,2024-12-15,ACTIVE,2026-01-05
+CARD00480,Meridian Primary,Credit,Consumer,Meridian Community Bank,Singapore,02/02/2022,46055,ACTIVE,2026-01-05
+CARD00685,Meridian Affiliate,Credit,Consumer,Harbor National Bank,BR,2024-09-30,09/30/2028,ACTIVE,2026-01-05
+CARD00667,Meridian  Primary,Prepaid,Consumer,Unity Trust Bank,BR,04/16/2022,2026-04-16,Active,2026-01-05
+CARD00019,Meridian Primary,Credit,Consumer,EuroTrust Bank,gb,06/25/2020,25-06-2024,Active,2026-01-05
+CARD00582,Meridian Affiliate,Credit,Consumer,Alta Financial,US,07/31/2022,2026-07-31,Active,2026-01-05
+CARD00122,Meridian Direct,Credit,Consumer,Northbridge Bank,India,2024-08-30,2028-08-30,Active,2026-01-05
+CARD00573,Meridian Primary,Debit,Consumer,Unity Trust Bank,IN,2024-05-24,2028-05-24,Active,2026-01-05
+CARD00275,Meridian Primary,Prepaid,Consumer,Harbor National Bank,US,2023-05-12,2027-05-12,Active,2026-01-05
+CARD00434,Meridian Primary,Credit,Commercial,Harbor National Bank,IN,2021-06-15,2025-06-15, Active,2026-01-05
+CARD00725,meridian primary,Credit,Consumer,Pacific Rim Bank  ,AU,2025-03-03,47180,Active,2026-01-05
+CARD00312,Meridian Primary,Credit,Commercial,Crestview Bank,US,03/07/2025,2029-03-07, Active,2026-01-05
+CARD00614,meridian primary,Credit,Commercial,Meridian Community Bank,Singapore,2024-09-06,2028-09-06,Active,2026-01-05
+CARD00676,MERIDIAN AFFILIATE,Debit,Consumer,Unity Trust Bank,Mexico,2022-09-06,2026-09-06,expired,2026-01-05
+CARD00547,Meridian Primary,Credit,Consumer,Andes Financial Group,MX,12/03/2022,2026-12-03,Active,2026-01-05
+CARD00182,Meridian Primary,Debit,Commercial,  Silverline Bank,Brazil,2023-12-14,2027-12-14,Active,2026-01-05
+CARD00185,Meridian Primary,Debit,Consumer,Andes Financial Group,DE,02/05/2022,05-02-2026, Active,2026-01-05
+CARD00407,Meridian Primary,Debit,Consumer,Ridgeway Bank,US,2024-10-31,2028-10-31, Active,2026-01-05
+CARD00521,Meridian Primary,Credit,Consumer,Meridian Community Bank,Germany,2025-03-20,2029-03-20,active,2026-01-05
+CARD00381,Meridian Primary,Prepaid,Consumer,Andes Financial Group,US,44949,2027-01-23,Active,2026-01-05
+CARD00411,MERIDIAN PRIMARY,Credit,Consumer,Crestview Bank,India,04/12/2023,2027-04-12,Active,2026-01-05
+CARD00370,Meridian Primary,Credit,Consumer,N/A,France,2022-04-06,46118,Active,2026-01-05
+CARD00659,Meridian Primary,Credit,Consumer,None,Japan,2021-05-24,05/24/2025,Active,2026-01-05
+CARD00610,Meridian Direct,Debit,Commercial,Unity Trust Bank,United States,04/10/2025,47218,Active,2026-01-05
+CARD00079,Meridian  Primary,Credit,Consumer,Unity Trust Bank,FR,2024-11-10,10-11-2028,Active,2026-01-05
+CARD00574,Meridian Primary,Credit,Commercial,Crestview Bank,France,2024-08-19,2028-08-19,Active,2026-01-05
+CARD00644,Meridian Primary,Credit,Commercial,Silverline Bank,GB,2019-10-31,31-10-2023, Active,2026-01-05
+CARD00798,Meridian Primary,Credit,Consumer,Silverline Bank,United States,2021-01-11,45668,Active,2026-01-05
+CARD00672,Meridian  Direct,Debit, Consumer ,Unity Trust Bank,FR,44942,2027-01-16,Active ,2026-01-05
+CARD00761,Meridian Primary,Credit,Consumer,Northbridge Bank,United States,02-04-2024,04/02/2028,Active,2026-01-05
+CARD00417,Meridian Primary,Credit,Consumer,Meridian Community Bank,DE,2021-08-20,45889,Active,2026-01-05
+CARD00678,Meridian Primary,Debit,Consumer,Northbridge Bank,Canada,09/28/2023,09/28/2027,active,2026-01-05
+CARD00562,Meridian Primary,Credit,Consumer,Crestview Bank,United States,02/08/2023,02/08/2027,ACTIVE,2026-01-05
+CARD00068,Meridian Direct,Credit,Commercial,Alta Financial,US,09/26/2024,2028-09-26,Active,2026-01-05
+CARD00537,Meridian Direct,Credit,Consumer,Ridgeway Bank,United Arab Emirates,2025-04-21,2029-04-21,expired,2026-01-05
+CARD00078,Meridian Primary,Debit,Consumer,Harbor National Bank,SG,01/13/2021,2025-01-13,Active,2026-01-05
+CARD00106,MERIDIAN PRIMARY,Debit,Consumer,Harbor National Bank,AU,02/20/2025,47169,Inactive,2026-01-05
+CARD00245,Meridian  Primary,Debit,Commercial,Pacific Rim Bank,us,07/20/2022,2026-07-20,Active,2026-01-05
+CARD00631,Meridian Direct,Credit,Consumer,Alta Financial,Australia,2019-05-11,2023-05-11,ACTIVE,2026-01-05
+CARD00560,Meridian Primary,Debit,Consumer,Northbridge Bank,BR,2020-09-24,2024-09-24,ACTIVE,2026-01-05
+CARD00791,meridian primary,Debit,Consumer,Unity Trust Bank,GB,44917,46378,Active ,2026-01-05
+CARD00756,Meridian  Direct,Credit,NULL,-,IN,2020-12-21,2024-12-21,Expired,2026-01-05
+CARD00652,Meridian  Primary,Debit,Commercial,Meridian Community Bank,AU,09/02/2022,2026-09-02,active,2026-01-05
+CARD00491,Meridian Primary,Credit,Consumer,Andes Financial Group,Brazil,11/01/2019,2023-11-01,Active,2026-01-05
+CARD00800,Meridian Affiliate,Debit,Consumer,Meridian Community Bank,IN,2020-03-14,2024-03-14,Active,2026-01-05
+CARD00684,Meridian  Primary,Credit,Consumer,Harbor National Bank  ,DE,2022-06-01,46174,Active,2026-01-05
+CARD00364,Meridian Primary,Debit,Consumer,Unity Trust Bank,Germany,2022-02-11,2026-02-11,Active,2026-01-05
+CARD00070,Meridian Affiliate,Prepaid,Consumer,Gulf Horizon Bank,JP,2019-08-06,2023-08-06,Inactive,2026-01-05
+CARD00549,MERIDIAN PRIMARY,Prepaid,Consumer,Alta Financial,Japan,2020-07-16,2024-07-16,Active,2026-01-05
+CARD00161,meridian primary,Credit,Consumer,EuroTrust Bank,AU,2022-01-17,01/17/2026,Active,2026-01-05
+CARD00012,MERIDIAN AFFILIATE,Debit,Consumer,Ridgeway Bank,Australia,16-07-2023,2027-07-16,Active,2026-01-05
+ CARD00145 ,None,Credit,Consumer,Meridian Community Bank,Japan,2022-06-22,22-06-2026,Active,2026-01-05
+CARD00518,meridian direct,Debit,Consumer,Crestview Bank,GB,05/21/2019,2023-05-21,Expired,2026-01-05
+CARD00428,Meridian Direct,Credit,Commercial,Silverline Bank,IN,2025-09-01,2029-09-01,Active,2026-01-05
+CARD00177,MERIDIAN DIRECT,Debit,Consumer,Meridian Community Bank,AU,2023-04-29,2027-04-29,Expired,2026-01-05
+CARD00441,Meridian Primary,Debit,Commercial,Ridgeway Bank,in,45567,2028-10-02,Active,2026-01-05
+CARD00522,meridian primary,Credit,Consumer,Gulf Horizon Bank,Germany,2024-04-12,2028-04-12,Active,2026-01-05
+CARD00706,Meridian Affiliate,Credit,Consumer,Northbridge Bank,IN,2019-08-16,08/16/2023,ACTIVE,2026-01-05
+CARD00760,MERIDIAN DIRECT,Prepaid,Consumer,Andes Financial Group,IN,2022-08-13,2026-08-13,Active,2026-01-05
+CARD00232  ,meridian primary,Debit,Consumer,Northbridge Bank,FR,2021-05-11,2025-05-11,Active,2026-01-05
+CARD00211,MERIDIAN PRIMARY,Credit,Consumer,Northbridge Bank,CA,09/24/2023,2027-09-24,Inactive,2026-01-05
+CARD00144,MERIDIAN PRIMARY,Debit,Consumer,Pacific Rim Bank,IN,2022-03-31,46112,Active ,2026-01-05
+CARD00520,Meridian Primary,Credit,Commercial,Northbridge Bank,IN,2024-08-20,2028-08-20,Expired,2026-01-05
+CARD00465,Meridian Affiliate,Credit,Consumer,Meridian Community Bank,SG,2020-06-30,2024-06-30,Active ,2026-01-05
+CARD00299,MERIDIAN PRIMARY,Debit,None,Andes Financial Group,CA,10/22/2022,2026-10-22,Active,2026-01-05
+CARD00429,Meridian Primary,Prepaid,Consumer,Crestview Bank,BR,2025-08-05,2029-08-05,inactive,2026-01-05
+CARD00613,Meridian Primary,Credit,Consumer,Northbridge Bank,US,45343,21-02-2028,Active,2026-01-05
+CARD00749,Meridian Affiliate,Credit,Consumer,EuroTrust Bank,United Kingdom,12/12/2023,12/12/2027,Active,2026-01-05
+CARD00009,meridian primary,Credit,Consumer,Alta Financial,United States,2020-02-12,12-02-2024,Active,2026-01-05
+CARD00157,Meridian Primary,Credit,Commercial,Harbor National Bank,India,2021-11-02,02-11-2025,Active ,2026-01-05
+CARD00540,Meridian  Primary,Credit,Commercial,Northbridge Bank  ,AU,2025-08-24,2029-08-24,Blocked,2026-01-05
+CARD00507,meridian affiliate,Debit,Commercial,  Harbor National Bank,de,07/24/2021,2025-07-24,blocked,2026-01-05
+  CARD00437,Meridian Primary,Debit,Consumer,Andes Financial Group,DE,2019-02-22,2023-02-22,Active,2026-01-05
+CARD00267,MERIDIAN DIRECT,Credit,Consumer,Northbridge Bank,br,03/27/2023,2027-03-27,ACTIVE,2026-01-05
+CARD00462,Meridian Primary,Debit,Consumer,Crestview Bank,Canada,2021-01-10,2025-01-10,Active,2026-01-05
+CARD00577,Meridian Primary,Credit,Consumer,Meridian Community Bank,GB,45085,06/08/2027,Active,2026-01-05
+CARD00339,Meridian  Primary,Credit,Consumer,Pacific Rim Bank,Australia,01/26/2019,2023-01-26,ACTIVE,2026-01-05
+CARD00256,Meridian Primary,Credit,Consumer,Northbridge Bank,Japan,2020-05-14,2024-05-14,Active,2026-01-05
+CARD00654,meridian direct,Debit,Consumer,Silverline Bank,US,08-11-2023,2027-11-08,INACTIVE,2026-01-05
+CARD00690,Meridian Primary,Credit,Consumer,Northbridge Bank,AU,2022-09-08,2026-09-08,Active,2026-01-05
+CARD00561,Meridian Direct,Prepaid,Consumer,-,India,2024-02-04,2028-02-04,Active,2026-01-05
+CARD00209,Meridian Primary,Credit,Consumer,Ridgeway Bank,GB,10/12/2024,2028-10-12,Active,2026-01-05
+CARD00288,meridian primary,Credit,Consumer,Alta Financial,Canada,45890,08/21/2029,Active,2026-01-05
+CARD00002,meridian affiliate,Credit,Consumer,Meridian Community Bank,United States,2024-09-07,2028-09-07,expired,2026-01-05
+CARD00342,Meridian Primary,Credit,Consumer,Ridgeway Bank,IN,2023-08-25,2027-08-25,active,2026-01-05
+CARD00270,Meridian Primary,Credit,Consumer,Gulf Horizon Bank,sg,27-01-2022,2026-01-27,Active,2026-01-05
+CARD00266,Meridian Direct,Debit,Commercial,Crestview Bank,US,09/01/2025,09/01/2029, Active,2026-01-05
+CARD00677,Meridian Primary,Debit,Consumer,Unity Trust Bank,AU,2023-10-02,2027-10-02,Blocked ,2026-01-05
+CARD00666,Meridian Primary,Credit,Consumer,Alta Financial,FR,2019-09-24,45193,Inactive,2026-01-05
+CARD00096,Meridian Primary,Credit,Consumer  ,Gulf Horizon Bank,in,03/27/2020,03/27/2024,Active ,2026-01-05
+CARD00781,Meridian Direct,Credit,Consumer,Crestview Bank,CA,2024-12-08,2028-12-08,Active,2026-01-05
+CARD00043,Meridian Primary,Credit,Consumer,Unity Trust Bank,United States,2025-02-14,02/14/2029,Expired,2026-01-05
+CARD00653,Meridian Primary,Debit,Consumer,Crestview Bank,Mexico,24-04-2023,04/24/2027,Expired,2026-01-05
+CARD00111,Meridian  Primary,Debit,Consumer,Alta Financial,IN,2022-08-16,16-08-2026,Active,2026-01-05
+CARD00675,Meridian Primary,Credit,Commercial,Silverline Bank,United Arab Emirates,11/05/2021,2025-11-05,Active,2026-01-05
+CARD00629,Meridian Primary,Debit,Consumer,Harbor National Bank,United States,09/17/2019,2023-09-17,Active,2026-01-05
+CARD00046,meridian primary,Credit,Consumer,Harbor National Bank,DE,2024-11-18,2028-11-18,Active,2026-01-05
+CARD00162,Meridian Primary,Debit,Consumer,Harbor National Bank,IN,2025-09-18,09/18/2029,Active,2026-01-05
+CARD00630,Meridian Primary,Debit,Consumer,EuroTrust Bank,FR,2025-06-22,47291,ACTIVE,2026-01-05
+CARD00289,Meridian Primary,Prepaid,Consumer,Ridgeway Bank,Germany,2024-01-21,46773,Active,2026-01-05
+CARD00590,Meridian Primary,Credit,Consumer,Ridgeway Bank,DE,08/27/2019,2023-08-27,Active,2026-01-05
+CARD00723,Meridian Primary,Credit,Consumer,Pacific Rim Bank,Japan,08/12/2025,08/12/2029,active,2026-01-05
+CARD00768,Meridian Direct,Credit,Consumer,Silverline Bank,AU,2021-09-01,2025-09-01,Active,2026-01-05
+CARD00576,MERIDIAN AFFILIATE,Debit,Consumer,  Ridgeway Bank,JP,07/24/2025,24-07-2029,Active ,2026-01-05
+CARD00316,Meridian Direct,Debit,Consumer,Ridgeway Bank,IN,2019-05-21,05/21/2023,ACTIVE,2026-01-05
+CARD00231,Meridian Direct,Credit,Commercial,EuroTrust Bank  ,BR,02/09/2022,2026-02-09,ACTIVE,2026-01-05
+CARD00669,Meridian Primary,Debit,Consumer,Andes Financial Group,sg,08-09-2019,2023-09-08,Inactive,2026-01-05
+CARD00077 ,MERIDIAN DIRECT,Debit,Consumer,Pacific Rim Bank,Canada,27-09-2021,2025-09-27,Active,2026-01-05
+CARD00634,Meridian Primary,Debit,Commercial,Ridgeway Bank,US,2021-10-28,2025-10-28,Active,2026-01-05
+CARD00785,Meridian  Primary,Prepaid,Consumer,Unity Trust Bank,GB,09/09/2025,2029-09-09,Active,2026-01-05
+CARD00248,Meridian Affiliate,Credit,Consumer,Pacific Rim Bank,us,2020-04-05,45387,ACTIVE,2026-01-05
+CARD00477,Meridian Primary,Credit,Consumer,Harbor National Bank,SG,44910,2026-12-15,Active ,2026-01-05
+CARD00086,Meridian Primary,Credit,Commercial,Harbor National Bank,US,44546,12/16/2025,Active,2026-01-05
+CARD00470,Meridian Affiliate,Credit,Consumer,Pacific Rim Bank,US,2024-06-11,2028-06-11,Active,2026-01-05
+CARD00226,Meridian Primary,Credit,Consumer,Alta Financial,US,2024-12-04,2028-12-04,Active,2026-01-05
+CARD00332,meridian direct,Credit,Consumer,Crestview Bank,MX,2022-07-08,2026-07-08,ACTIVE,2026-01-05
+CARD00234,Meridian  Primary,Credit,Consumer, Alta Financial ,US,2019-12-23,12/23/2023,Active,2026-01-05
+CARD00589,Meridian Primary,Prepaid,Consumer,Unity Trust Bank,GB,2024-11-05,2028-11-05,Active,2026-01-05
+CARD00476,Meridian Affiliate,Credit,Commercial,Pacific Rim Bank,AU,2023-01-07,46394,Active,2026-01-05
+CARD00722,meridian primary,Prepaid,Consumer,Ridgeway Bank,Australia,2019-06-09,09-06-2023,Active,2026-01-05
+CARD00707,Meridian Primary,Debit,Consumer,Crestview Bank,US,44855,2026-10-21,N/A,2026-01-05
+CARD00600,Meridian Primary,Debit,Consumer,Unity Trust Bank,US,2023-09-04,04-09-2027,ACTIVE,2026-01-05
+CARD00422,MERIDIAN DIRECT,Credit,Consumer,Crestview Bank,Canada,2025-08-26,47356,Active,2026-01-05
+CARD00183,Meridian Affiliate,Credit,Consumer,Ridgeway Bank,SG,11/02/2019,2023-11-02,Active,2026-01-05
+CARD00618,MERIDIAN PRIMARY,Credit,Consumer,Alta Financial,AE,2023-07-24,24-07-2027,Inactive,2026-01-05
+CARD00333,Meridian Primary,Credit,Consumer,EuroTrust Bank,DE,2022-11-28,11/28/2026,Active,2026-01-05
+CARD00439,Meridian Direct,Prepaid,Consumer,Crestview Bank  ,DE,12-08-2025,2029-08-12, Active,2026-01-05
+CARD00050,Meridian Primary,Debit,Consumer,Northbridge Bank,fr,2023-03-06,03/06/2027,Active,2026-01-05
+CARD00006,Meridian  Primary,Debit,Consumer,Crestview Bank,US,03/07/2019,2023-03-07,Active,2026-01-05
+CARD00530,Meridian Direct,Credit,Consumer,NULL,GB,43824,2023-12-25,Active,2026-01-05
+CARD00235,Meridian Primary,Credit,Consumer,Gulf Horizon Bank,au,09/08/2020,09/08/2024,Active ,2026-01-05
+CARD00487,Meridian Primary,Credit,Consumer,Meridian Community Bank,India,08/08/2023,2027-08-08,active,2026-01-05
+CARD00800,Meridian Affiliate,Debit,Consumer,Meridian Community Bank,IN,2020-03-14,2024-03-14,Active,2026-01-05
+CARD00498,Meridian Primary,Credit,Consumer,Unity Trust Bank,US,2025-02-24,02/24/2029,Active,2026-01-05
+CARD00728,Meridian Direct,Credit,Consumer,Silverline Bank,Mexico,06/19/2022,2026-06-19,Active,2026-01-05
+CARD00107,Meridian Primary,Debit,Consumer,Crestview Bank,JP,2019-07-18,2023-07-18,Active ,2026-01-05
+CARD00444,Meridian Primary,Debit,Consumer,EuroTrust Bank,US,2021-06-24,2025-06-24,active,2026-01-05
+CARD00489,Meridian Affiliate,Credit, Consumer ,Northbridge Bank,ca,2022-04-17,04/17/2026,Blocked,2026-01-05
+CARD00647,Meridian Primary,Debit,Consumer,Ridgeway Bank,IN,10/27/2020,2024-10-27,Active,2026-01-05
+CARD00013 ,Meridian Direct,Credit,Consumer,Crestview Bank,United States,2024-06-12,2028-06-12,Active,2026-01-05
+CARD00191,Meridian Primary,Debit,Consumer,Unity Trust Bank,US,05/17/2023,2027-05-17,Active,2026-01-05
+CARD00283,Meridian Primary,Credit,Consumer,Crestview Bank,BR,43904,2024-03-14,Active,2026-01-05
+CARD00030,Meridian Primary,Credit,Consumer,Gulf Horizon Bank,US,2022-07-25,25-07-2026,Active,2026-01-05
+  CARD00170,Meridian Primary,Credit,Consumer,Unity Trust Bank,US,01/09/2023,2027-01-09,Active,2026-01-05
+CARD00181,Meridian Primary,Credit,Consumer,Gulf Horizon Bank,sg,08/18/2019,2023-08-18,ACTIVE,2026-01-05
+CARD00101,Meridian Primary,Credit,Commercial,EuroTrust Bank,IN,2020-07-24,2024-07-24,active,2026-01-05
+CARD00198,Meridian  Direct,Credit,Consumer,Pacific Rim Bank,United States,25-02-2025,2029-02-25, Active,2026-01-05
+CARD00496,Meridian Primary,Credit,Consumer,Harbor National Bank,CA,2024-09-01,01-09-2028,Active,2026-01-05
+CARD00648,Meridian Primary,Debit,Consumer,EuroTrust Bank,US,2022-05-08,05/08/2026,Active,2026-01-05
+CARD00789,Meridian Primary,Credit,Consumer,unknown,India,09/05/2022,2026-09-05,Active,2026-01-05
+CARD00754,meridian primary,Debit,Commercial,EuroTrust Bank,MX,2022-07-17,46220,Active,2026-01-05
+CARD00374,Meridian Direct,Credit,Consumer,Unity Trust Bank,IN,2022-12-10,10-12-2026,Active ,2026-01-05
+CARD00679,Meridian Affiliate,Debit,Consumer,Pacific Rim Bank,United States,2019-08-24,45162,Active ,2026-01-05
+CARD00719,Meridian Primary,Credit,Consumer,Gulf Horizon Bank,Australia,2024-12-28,2028-12-28,Expired,2026-01-05
+CARD00649,MERIDIAN DIRECT,Prepaid,Consumer,Alta Financial,US,2021-07-18,07/18/2025,Active,2026-01-05
+CARD00461,Meridian Primary,Credit,Consumer,Meridian Community Bank,DE,04/22/2019,04/22/2023,Active,2026-01-05
+CARD00414,Meridian  Primary,Debit,Consumer,Harbor National Bank,United States,22-12-2019,2023-12-22, Active,2026-01-05
+CARD00132,Meridian Primary,Debit,Consumer,Gulf Horizon Bank,in,2020-08-30,08/30/2024,Active,2026-01-05
+CARD00040,Meridian Primary,Debit,Commercial,Gulf Horizon Bank,United States,2023-09-23,2027-09-23,active,2026-01-05
+CARD00435,Meridian Primary,Debit,Consumer,Gulf Horizon Bank,US,2019-03-23,2023-03-23,ACTIVE,2026-01-05
+CARD00216,Meridian Primary,Prepaid,Commercial,Pacific Rim Bank,United Arab Emirates,2023-02-01,01-02-2027,ACTIVE,2026-01-05
+CARD00556,MERIDIAN PRIMARY,Debit,Consumer,Andes Financial Group,India,01/25/2020,2024-01-25,Active,2026-01-05
+CARD00567,Meridian Primary,Debit,Consumer,  Silverline Bank,US,07/12/2020,2024-07-12,active,2026-01-05
+CARD00475,Meridian Primary,Credit,Commercial,Gulf Horizon Bank,US,06/06/2024,2028-06-06,Active,2026-01-05
+CARD00457,MERIDIAN PRIMARY,Credit,Consumer,EuroTrust Bank,Australia,45048,05/02/2027,Active ,2026-01-05
+CARD00261,Meridian Primary,Debit,Consumer,Unity Trust Bank,MX,2022-11-26,11/26/2026,Active,2026-01-05
+CARD00036,Meridian Direct,Credit,Consumer,Gulf Horizon Bank,GB,2020-05-16,2024-05-16,ACTIVE,2026-01-05
+  CARD00310,MERIDIAN PRIMARY,Credit,Consumer,EuroTrust Bank,Canada,2023-12-07,12/07/2027,BLOCKED,2026-01-05
+CARD00277,Meridian  Direct,Credit,Consumer,Alta Financial,BR,19-06-2021,2025-06-19,active,2026-01-05
+CARD00637,MERIDIAN PRIMARY,Credit,Commercial,Gulf Horizon Bank,DE,17-06-2025,47286,Active,2026-01-05
+CARD00655,Meridian Primary,Credit,Commercial,Meridian Community Bank,FR,07/13/2021,07/13/2025,unknown,2026-01-05
+CARD00623,Meridian Primary,Credit,Consumer,Harbor National Bank,United Arab Emirates,2023-06-24,06/24/2027,Active ,2026-01-05
+CARD00394,Meridian Direct,Debit,Consumer,Harbor National Bank,BR,2019-04-16,2023-04-16,Active,2026-01-05
+CARD00108,meridian direct,Credit,Consumer,Unity Trust Bank,US,2020-12-26,12/26/2024, Active,2026-01-05
+CARD00766,meridian primary,Credit,Consumer,Pacific Rim Bank,GB,2023-07-17,46585,Active,2026-01-05
+CARD00525,meridian direct,Prepaid,Commercial,Gulf Horizon Bank,DE,06/19/2023,06/19/2027,Active,2026-01-05
+CARD00048,Meridian Primary,Prepaid,Consumer,Ridgeway Bank,Canada,08/09/2022,09-08-2026,Active ,2026-01-05
+CARD00204,Meridian Direct,Debit,Consumer,Northbridge Bank,in,12/24/2024,2028-12-24,Blocked,2026-01-05
+CARD00751,meridian primary,Prepaid,Consumer,EuroTrust Bank,Australia,2024-11-26,11/26/2028,ACTIVE,2026-01-05
+CARD00632,Meridian Direct,Credit,Consumer,Crestview Bank,Canada,05/13/2023,2027-05-13,Active,2026-01-05
+CARD00022,MERIDIAN PRIMARY,Credit,Consumer,Unity Trust Bank,US,08/23/2020,23-08-2024,Active,2026-01-05
+CARD00403,meridian primary,Credit,Commercial,Unity Trust Bank,France,2021-05-02,2025-05-02,active,2026-01-05
+CARD00084,MERIDIAN PRIMARY,Credit,Consumer,Alta Financial,AE,2024-05-11,2028-05-11,Active ,2026-01-05
+CARD00131,Meridian Primary,Credit,Consumer,Unity Trust Bank,IN,2021-09-23,09/23/2025,Active,2026-01-05
+CARD00416  ,Meridian  Primary,Credit,Consumer,Ridgeway Bank,IN,44388,11-07-2025,INACTIVE,2026-01-05
+CARD00742,meridian primary,Credit,Consumer,Meridian Community Bank,CA,2019-10-27,10/27/2023,ACTIVE,2026-01-05
+CARD00698,Meridian  Primary,Credit,Consumer,Gulf Horizon Bank,United Arab Emirates,2023-12-15,2027-12-15,blocked,2026-01-05
+CARD00287  ,unknown,Debit,Consumer,EuroTrust Bank,US,02/02/2025,2029-02-02,ACTIVE,2026-01-05
+CARD00124,Meridian  Primary,Debit,Consumer,Harbor National Bank  ,IN,45236,46697,Active,2026-01-05
+CARD00034,Meridian Affiliate,Credit,Consumer,Meridian Community Bank,United States,45365,14-03-2028,Active,2026-01-05
+CARD00517,Meridian Primary,Credit,Consumer,Ridgeway Bank,gb,07/08/2025,2029-07-08,Active,2026-01-05
+CARD00020,MERIDIAN PRIMARY,Credit,Consumer,-,MX,04/15/2025,04/15/2029,Active,2026-01-05
+CARD00752,Meridian Affiliate,Debit,Commercial,Harbor National Bank,MX,45615,11/19/2028,Active,2026-01-05
+CARD00220,meridian direct,Credit,Consumer,Crestview Bank,United States,2019-04-01,2023-04-01,Active,2026-01-05
+CARD00272,Meridian Direct,Credit,Consumer,Harbor National Bank,IN,05/01/2025,05/01/2029,NULL,2026-01-05
+CARD00482,Meridian Direct,Debit,Consumer,Harbor National Bank,Mexico,2025-06-04,2029-06-04,Active,2026-01-05
+CARD00357,Meridian Primary,Credit,Consumer,Northbridge Bank,CA,03/10/2020,2024-03-10,Active,2026-01-05
+CARD00662,Meridian Affiliate,Debit,Consumer,Crestview Bank,SG,2021-08-29,45898,Blocked,2026-01-05
+CARD00225,Meridian Primary,Prepaid,Consumer,Ridgeway Bank,BR,43609,05/24/2023,Active,2026-01-05
+CARD00093,Meridian Direct,Debit,Consumer,Crestview Bank,MX,2020-05-22,05/22/2024,Active,2026-01-05
+CARD00152,Meridian Primary,Debit,Consumer,unknown,US,2021-07-25,25-07-2025,Inactive,2026-01-05
+CARD00796,Meridian Direct,Debit,Consumer,Gulf Horizon Bank,CA,06/23/2025,06/23/2029,ACTIVE,2026-01-05
+CARD00318,Meridian Primary,Debit,Consumer,Andes Financial Group,DE,2024-09-10,2028-09-10,Active ,2026-01-05
+CARD00449,meridian primary,Prepaid,Consumer,Ridgeway Bank,IN,2020-11-13,2024-11-13,Active,2026-01-05
+CARD00746,Meridian Direct,Credit,Consumer,Silverline Bank,SG,2023-05-02,2027-05-02,Active,2026-01-05
+CARD00523,Meridian Affiliate,Debit,Commercial,  Ridgeway Bank,France,2022-11-22,22-11-2026,Active ,2026-01-05
+CARD00280,Meridian  Direct,Prepaid,Consumer,Harbor National Bank,GB,01/11/2022,2026-01-11,Active,2026-01-05
+CARD00584,Meridian Primary,Credit,Consumer,Ridgeway Bank,India,23-08-2021,2025-08-23,Active,2026-01-05
+CARD00605,meridian primary,Debit,Consumer,Alta Financial,AE,01/06/2025,2029-01-06,active,2026-01-05
+ CARD00350 ,Meridian Primary,Debit,Consumer,Silverline Bank,JP,2020-05-17,45429,inactive,2026-01-05
+CARD00375,Meridian Primary,Debit,Consumer,Alta Financial  ,ae,09/19/2020,09/19/2024,Active ,2026-01-05
+CARD00401,Meridian Primary,Debit,Consumer,Harbor National Bank,de,03/28/2024,28-03-2028,Blocked,2026-01-05
+CARD00705,Meridian Primary,Credit,Commercial,Northbridge Bank,India,2024-04-26,04/26/2028,active,2026-01-05
+CARD00258,Meridian Direct,Credit,Consumer,Andes Financial Group,DE,2023-03-18,2027-03-18,Active,2026-01-05
+CARD00073,Meridian Primary,Debit,Commercial,Ridgeway Bank,BR,10-11-2019,2023-11-10,Active,2026-01-05
+CARD00196,Meridian Primary,Credit,Consumer,EuroTrust  Bank,United States,01/26/2024,2028-01-26,Active,2026-01-05
+CARD00484,Meridian  Primary,Credit,Commercial,Harbor National Bank,India,2024-10-09,2028-10-09,Active,2026-01-05
+CARD00138,MERIDIAN DIRECT,Prepaid,Consumer,Gulf Horizon Bank,US,27-04-2019,2023-04-27,Active,2026-01-05
+CARD00495,Meridian Primary,Debit,Consumer,Meridian Community Bank,US,21-10-2020,2024-10-21,Active,2026-01-05
+CARD00773,Meridian Primary,Debit,Consumer,Crestview Bank,Canada,2019-12-20,2023-12-20,Active,2026-01-05
+CARD00551,Meridian Primary,Debit,Consumer,Northbridge Bank,US,2023-03-06,03/06/2027,Active,2026-01-05
+CARD00463,Meridian  Direct,Credit,Consumer  ,Silverline Bank,de,2021-10-17,2025-10-17,Active ,2026-01-05
+CARD00202,Meridian  Primary,Credit,Consumer,Andes Financial Group,Germany,2025-04-26,2029-04-26, Active,2026-01-05
+CARD00313,Meridian Primary,Credit,Commercial,Silverline Bank,Canada,2019-06-17,06/17/2023,active,2026-01-05
+CARD00291,Meridian Primary,Prepaid,Consumer,Alta Financial,Japan,01/13/2019,2023-01-13,Active,2026-01-05
+CARD00190,Meridian Primary,Debit,Consumer,Unity Trust Bank,Japan,09/27/2022,2026-09-27,Active,2026-01-05
+CARD00764,Meridian Direct,Credit,Consumer,EuroTrust Bank,BR,2023-06-10,2027-06-10, Active,2026-01-05
+CARD00113,Meridian Affiliate,Debit,Consumer,Crestview Bank,GB,2024-04-21,04/21/2028,ACTIVE,2026-01-05
+ CARD00184 ,Meridian Direct,Credit,Consumer,Alta Financial,FR,2023-09-06,06-09-2027,Active,2026-01-05
+CARD00153,Meridian Primary,Credit,Consumer,Meridian Community Bank,US,20-03-2023,20-03-2027,active,2026-01-05
+CARD00326,MERIDIAN DIRECT,Debit,Consumer,Harbor National Bank,India,06/16/2024,2028-06-16,Active,2026-01-05
+CARD00704,Meridian Primary,Credit,Consumer,Gulf Horizon Bank,AU,2020-03-17,45368,Active,2026-01-05
+CARD00045,Meridian  Primary,Credit,Consumer,Crestview Bank,IN,2025-08-03,08/03/2029,Active,2026-01-05
+CARD00445,Meridian Direct,Debit,Commercial,Meridian Community Bank,FR,04-07-2024,2028-07-04,Active,2026-01-05
+CARD00788,Meridian Primary,Credit,Consumer,Ridgeway Bank,Germany,12/17/2020,12/17/2024,ACTIVE,2026-01-05
+CARD00007,Meridian Primary,Prepaid,Consumer,Silverline Bank,AU,2020-03-23,23-03-2024,Active,2026-01-05
+CARD00251,Meridian Primary,Debit,Consumer,Meridian Community Bank,United States,17-09-2025,09/17/2029,ACTIVE,2026-01-05
+CARD00076,meridian direct,Credit,Consumer,Meridian Community Bank,India,2024-01-01,2028-01-01,active,2026-01-05
+CARD00513,Meridian Affiliate,Credit,Consumer,EuroTrust Bank,US,06/14/2019,2023-06-14, Active,2026-01-05
+  CARD00392,Meridian Primary,Debit,Consumer,Crestview Bank,GB,44427,2025-08-19,Active,2026-01-05
+CARD00433,Meridian Primary,Credit,Consumer,Northbridge Bank,IN,2025-05-27,47265,Active,2026-01-05
+CARD00069,MERIDIAN PRIMARY,Debit,Consumer,Unity Trust Bank,AE,2024-07-01,2028-07-01,Active,2026-01-05
+CARD00168,meridian primary,Credit,Consumer,Unity Trust Bank,IN,2025-07-20,2029-07-20, Active,2026-01-05
+CARD00731,MERIDIAN PRIMARY,Credit,Consumer,Pacific Rim Bank,FR,05-08-2019,45143,Active,2026-01-05
+CARD00555,Meridian Direct,Credit,Consumer,Harbor National Bank,MX,44187,12/22/2024,Active,2026-01-05
+CARD00367,Meridian Affiliate,Debit,Consumer,unknown,Canada,2019-02-05,05-02-2023,Active ,2026-01-05
+CARD00346,MERIDIAN PRIMARY,Debit,Consumer,Pacific Rim Bank,BR,2023-07-14,2027-07-14,Active,2026-01-05
+CARD00585,Meridian Primary,Debit,Consumer,Ridgeway Bank,India,2023-12-16,12/16/2027,Active,2026-01-05
+CARD00536,meridian affiliate,Debit,Commercial,Harbor National Bank,in,2019-01-20,01/20/2023,active,2026-01-05
+CARD00399,Meridian Direct,Debit,Consumer,EuroTrust Bank,United States,2019-11-07,2023-11-07,Active,2026-01-05
+CARD00186,Meridian Primary,Credit,Commercial,EuroTrust Bank,ae,09/19/2019,19-09-2023,Inactive,2026-01-05
+CARD00349,Meridian Primary,Debit,Consumer,Silverline Bank,BR,01-10-2024,10/01/2028, Active,2026-01-05
+CARD00616,Meridian Affiliate,Prepaid,Consumer,  Silverline Bank,GB,2023-08-27,2027-08-27,Active,2026-01-05
+CARD00212,Meridian Direct,Prepaid,Consumer,Harbor National Bank,Australia,2019-02-26,2023-02-26,Active,2026-01-05
+CARD00580,Meridian Primary,Debit,Consumer,Northbridge Bank,US,2023-03-14,03/14/2027,Active,2026-01-05
+CARD00503,Meridian Primary,Credit,Consumer,Ridgeway Bank,France,03/17/2019,2023-03-17,Active,2026-01-05
+CARD00538,Meridian Primary,Debit,Consumer,Meridian Community Bank,US,07/13/2025,13-07-2029,Active,2026-01-05
+ CARD00197 ,Meridian Direct,Prepaid,Consumer,Pacific Rim Bank,GB,44146,11/11/2024,Active ,2026-01-05
+CARD00176,Meridian Primary,Credit,Consumer  ,Crestview Bank,FR,2024-02-15,2028-02-15,Active,2026-01-05

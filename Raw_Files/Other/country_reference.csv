@@ -1,0 +1,15 @@
+country_code ,Country Name,Region,Currency
+AE,United Arab Emirates,Middle East & Africa,AED
+AE,United Arab Emirates,MEA,
+GB,United Kingdom,Europe,GBP
+IN,India,APAC,INR
+US,United States,North America,USD
+CA,Canada,North America,CAD
+us,united states,North America,USD
+SG,Singapore,APAC,SGD
+  AU,Australia,APAC,AUD
+MX,Mexico,LATAM,MXN
+DE,Germany,Europe,EUR
+JP,Japan,APAC,JPY
+BR,Brazil,LATAM,BRL
+FR,France,Europe,EUR

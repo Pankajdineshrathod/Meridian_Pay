@@ -1,0 +1,411 @@
+ merchant_id,Merchant Name,MCC_Code,mcc_desc ,Country,Channel,Onboarded_Date,Status
+MERC00238,Northgate Airways,4511,Airlines,IN,POS,2025-07-06,Inactive
+MERC00396,Lakeside ATM,6011,Automated Teller Machines (ATM),FR,ATM  ,2017-08-07,Active 
+MERC00081,Northgate Pharmacy,5912,Drug Stores & Pharmacies,CA,Both,30-03-2017,Active
+MERC00031,Gréenway Department Store,5311,Department Stores,CA,Both,44166,Active
+MERC00387,Northgate ATM,6011,Automated Teller Machines (ATM),AU,ATM,01-02-2024,Active
+MERC00392,Cedar ATM,6011,Automated Teller Machines (ATM),US,ATM,44118,active
+MERC00328,Fieldstone Resort,7011,"Hotels, Motels & Resorts",Canada, Both ,2019-12-27,INACTIVE
+MERC00282,fieldstone general store  ,5999,Miscellaneous Retail,IN,POS,21-03-2023,Active
+MERC00116,Skyline Service Station,5541,Service Stations (Fuel),SG,E-commerce,29-08-2024, Active
+MERC00257,Greenway Games,7995,Entertainment & Gaming,IN,Both,18-08-2019,Active
+MERC00343,Bluepeak Drug Store,5912,Drug Stores & Pharmacies,DE,Both,42443,Active
+MERC00298,Lakeside Fuel Stop,5541,Service Stations (Fuel),us,Both  ,43099,active
+MERC00241,Coastal Fresh Foods,5411,Grocery Stores & Supermarkets,br,E-commerce,03-01-2020,Active
+MERC00338,Silverline Hotel,7011,"Hotels, Motels & Resorts",US,POS,43104,Active
+MERC00341,Harborview Service Station,5541,Service Stations (Fuel),US,Both,27-10-2017,Active
+MERC00053,Highland Tech Store,5732,Electronics Stores,BR,POS,22-02-2024, Active
+MERC00247,Bluepeak Inn,7011,"Hotels, Motels & Resorts",US,POS,45594,Active
+MERC00066,Fieldstone Health Mart,5912,Drug Stores & Pharmacies,BR,POS,42178,Active
+MERC00264,Highland Department Store,5311,Department Stores,MX,POS,2023-02-14,INACTIVE
+MERC00295,Cedar Electronics,5732,Electronics Stores,JP,Both,16-01-2024,Active
+MERC00148,Silverline Department Store,5311,Department Stores,US,POS,12-05-2018,Active
+MERC00061,Greenway Digital,5732,Electronics Stores,BR,E-commerce,20-11-2015,Active
+MERC00090,Highland Pharmacy,5912,Drug Stores & Pharmacies,IN,Both,45296,Active
+MERC00224,Riverside Inn,7011,"Hotels, Motels & Resorts",IN,Both,2024-02-27,Inactive
+MERC00260,Old Town Diner,5812,Eating Places & Restaurants,CA,E-commerce,05-05-2025,Active
+MERC00164,Silverline Hotel,7011,"Hotels, Motels & Resorts",AU,POS,03-11-2021,active
+MERC00339,Greenway Diner,5812,Eating Places & Restaurants,fr,E-commerce,15-11-2016, Active
+MERC00057,lakeside digital,5732,Electronics Stores,Canada,E-commerce,22-12-2024,active
+MERC00389,Northgate ATM,6011,Automated Teller Machines (ATM),IN,ATM,08-04-2022,ACTIVE
+MERC00027,Silverline Fresh Foods,5411,Grocery Stores & Supermarkets,MX,Both,21-03-2018,Active
+MERC00099,Ironwood Arcade,7995,Entertainment & Gaming,US,Both,18-09-2016,Inactive
+MERC00160,Union Emporium,5999,Miscellaneous Retail,GB,POS,25-10-2020,Active
+MERC00370,Lakeside Drug Store,5912,Drug Stores & Pharmacies,jp,Both,2019-03-13,Active
+MERC00219,Summit Retail Co.,5311,Department Stores,US,E-commerce,25-06-2020,inactive
+MERC00091,Summit Department Store,5311,Department Stores,JP,Both,30-11-2024,Active 
+MERC00015,Coastal Airways,4511,Airlines,US,POS,2023-12-26,Active
+MERC00165,Highland Air,4511,Airlines,CA,E-commerce,16-02-2018,Active 
+ MERC00236 ,Harborview Arcade,7995,Entertainment & Gaming,IN,POS,2019-04-03,Active
+MERC00052,Ironwood Service Station,5541,Service Stations (Fuel),United Kingdom,POS,20-06-2025,Active
+MERC00139,Fieldstone Fuel Stop,5541,Service Stations (Fuel),IN,POS,03-04-2021,-
+MERC00130,Northgate Entertainment,7995,Entertainment & Gaming,DE,POS,03-02-2015,Active 
+MERC00178,Northgate Air,4511,Airlines,GB,E-commerce,2015-08-04,Active
+MERC00268,Union Store,5311,Department Stores,IN,Both,44887,Active 
+MERC00169,Northgate Inn,7011,"Hotels, Motels & Resorts",IN,Both,2018-03-24,Active
+MERC00195,ironwood service station,5541,Service Stations (Fuel),IN,Both,13-11-2023,Active
+MERC00151,Meadow Health Mart,5912,Drug Stores & Pharmacies,India,E-commerce,43092,Active
+MERC00110,Riverside Tech Store,5732,Electronics Stores,FR,E-commerce,2021-12-06,Active
+MERC00203,Crescent Retail Co.,5311,Department Stores,US,E-commerce,16-02-2015,Active 
+MERC00115,Coastal Airways,4511,Airlines,India,Both,2018-10-25,Active
+MERC00373,FIELDSTONE ATM,6011,Automated Teller Machines (ATM),GB,ATM,2016-09-09,Active
+MERC00229,Greenway Shop,5999,Miscellaneous Retail,IN,E-commerce,2023-08-03,Active
+MERC00272,Silverline Entertainment,7995,Entertainment & Gaming,GB,POS,2024-11-24,Active
+ MERC00029 ,Summit Department Store,5311,Department Stores,US,E-commerce,2015-01-22,active
+MERC00042,Silverline Grocers,5411,Grocery Stores & Supermarkets,US,E-commerce,19-05-2019,Active 
+MERC00004,Brookfield Arcade,7995,Entertainment & Gaming,SG,POS,2024-05-13,Active
+MERC00023,Brookfield Market,5411,Grocery Stores & Supermarkets,ae,POS,12-06-2019,Active
+MERC00336,cedar retail co.,5311,Department Stores,Brazil,E-commerce,44139,Active
+MERC00133,Metro Fresh Foods,5411,Grocery Stores & Supermarkets,US,POS,43645,Active
+MERC00297,Brookfield Air  ,4511,Airlines,Canada,POS,44543,Active
+MERC00266,Union Fresh Foods,5411,Grocery Stores & Supermarkets,CA,E-commerce,2017-05-17,active
+MERC00275,Harborview Fresh Foods,5411,Grocery Stores & Supermarkets,MX,Both,2021-04-23,Active
+MERC00288,Union Emporium,5999,Miscellaneous Retail,United States,POS,07-02-2015,Active
+MERC00058,Lakeside Drug Store,5912,Drug Stores & Pharmacies,United States,E-commerce,12-01-2025,Active
+MERC00112,Lakeside Air,4511,Airlines,India,E-commerce,10-01-2024, Active
+MERC00121,Lakeside Fresh Foods,5411,Grocery Stores & Supermarkets,FR,POS,03-04-2018,Active
+MERC00246,Skyline Department Store,5311,Department Stores,United States,Both,2021-09-15,active
+MERC00102,Highland Resort,7011,"Hotels, Motels & Resorts",IN,Both,42809,active
+MERC00281,Silverline Drug Store,5912,Drug Stores & Pharmacies,United States,POS,11-02-2023,Active
+MERC00166,IRONWOOD AIR,4511,Airlines,BR,Both,23-07-2025,Active
+MERC00371,Meadow ATM,6011,Automated Teller Machines (ATM),BR,ATM,2023-08-30,Active 
+MERC00355,Ironwood Airlines,4511,Airlines,SG,Both ,2019-12-01,Active
+MERC00119,Northgate Air,4511,Airlines,IN,E-commerce,25-03-2020,Active
+MERC00239,Riverside  Electronics,5732,Electronics Stores,US,Both,2021-11-23,ACTIVE
+MERC00174,Highland Air,4511,Airlines,US,POS,14-04-2024,Active
+MERC00243,Highland Pharmacy,5912,Drug Stores & Pharmacies,mx,POS,17-08-2017,Active
+MERC00149,Northgate Gas & Go,5541,Service Stations (Fuel),IN,POS,18-09-2018,ACTIVE
+MERC00175,Crescent Arcade,7995,Entertainment & Gaming,US,POS,22-10-2022,ACTIVE
+MERC00242,Metro Market,5411,Grocery Stores & Supermarkets,IN,Both,2017-09-29,N/A
+MERC00317,summit air,4511,Airlines,US,POS,2024-05-28,Active
+MERC00342,Coastal Pharmacy,5912,Drug Stores & Pharmacies,Canada,E-commerce,44437,Active
+MERC00060,Summit Games,7995,Entertainment & Gaming,GB,E-commerce,28-12-2017,Active
+MERC00141,Metro Arcade,7995,Entertainment & Gaming,BR,Both,14-06-2015,Active 
+MERC00075,Fieldstone Shop,5999,Miscellaneous Retail,United States,Both,08-12-2020,ACTIVE
+MERC00080,Coastal Drug Store,5912,Drug Stores & Pharmacies,Singapore,POS,28-05-2017,Active 
+MERC00381,silverline atm,6011,Automated Teller Machines (ATM),JP,ATM,2020-11-04,Active
+MERC00140,Brookfiéld Air,4511,Airlines,CA,Both,2021-10-03,Active
+MERC00082,Cedar Grill,5812,Eating Places & Restaurants,GB,Both,26-01-2020,ACTIVE
+MERC00051,Union Grocers,5411,Grocery Stores & Supermarkets,US,E-commerce,2023-11-15,Active
+MERC00254,Highland Tech Store,5732,Electronics Stores,United Kingdom,POS,23-01-2017,Active
+MERC00279,Harborview Tech Store,5732,Electronics Stores,US,POS,22-05-2021,ACTIVE
+MERC00348,Skyline Airways,4511,Airlines,IN,E-commerce,16-05-2020, Inactive
+MERC00376,Summit ATM,6011,Automated Teller Machines (ATM),India,ATM,31-08-2019,Active
+MERC00232,Cedar Service Station,5541,Service Stations (Fuel),United States,POS,30-04-2016,Active
+MERC00054,Union Resort,7011,"Hotels, Motels & Resorts",IN,Both,30-05-2015,active
+MERC00361,Brookfield Digital,5732,Electronics Stores,India,POS,2020-12-28,Active
+MERC00213,Summit Retail Co.,5311,Department Stores,US,E-commerce,16-10-2024,Inactive
+MERC00368,Brookfield Airlines,4511,Airlines,JP,E-commerce,22-09-2020,Active
+MERC00194,Cedar Hotel,7011,"Hotels, Motels & Resorts",United Kingdom,  E-commerce,2023-01-22,Active
+MERC00221,greenway shop,5999,Miscellaneous Retail,United Arab Emirates,POS,03-10-2020,active
+MERC00182,Ironwood Air,4511,Airlines,BR,POS,24-06-2023,N/A
+MERC00302,Lakeside Digital,5732,Electronics Stores,India,Both,03-04-2019,Active
+MERC00067,Metro Electronics,5732,Electronics Stores,United Kingdom,E-commerce,29-01-2018,Active
+MERC00171,METRO SHOP,5999,Miscellaneous Retail,United States,POS,43194,Active
+MERC00299,Old Town Service Station,5541,Service Stations (Fuel),AU,POS,22-07-2019,INACTIVE
+MERC00124,Brookfield Shop,5999,Miscellaneous Retail,JP,POS,02-08-2020,Inactive
+MERC00391,Harborview ATM,6011,Automated Teller Machines (ATM),United States,ATM,05-06-2025,Active
+MERC00085,Ironwood Arcade,7995,Entertainment & Gaming,BR,POS,2018-04-04,Inactive
+MERC00142,Skyline Shop,5999,Miscellaneous Retail,IN,POS,2023-01-01,ACTIVE
+MERC00337,Bluepeak Tech Store,5732,Electronics Stores,CA,POS,25-11-2016,Inactive
+MERC00100,Harborview Shop,5999,Miscellaneous Retail,IN,E-commerce,14-08-2018,Active
+MERC00033,Greenway Fresh Foods,5411,Grocery Stores & Supermarkets,U.S.,Both,03-09-2017,Active
+MERC00332,Highland Bistro,5812,Eating Places & Restaurants,CA, Both ,2018-12-20, Active
+MERC00016,Silverline Resort,7011,"Hotels, Motels & Resorts",br,POS,2015-08-02,Active
+MERC00192,Union Pharmacy,5912,Drug Stores & Pharmacies,Mexico,POS  ,43122,Inactive
+MERC00207,Northgate Inn,7011,"Hotels, Motels & Resorts",GB,POS,28-09-2022,Active 
+MERC00228,Greenway Grocers,5411,Grocery Stores & Supermarkets,GB,POS,2018-03-21,Active
+MERC00158,Brookfield Airlines,4511,Airlines,FR,E-commerce,08-08-2019,Active
+MERC00087,UNION AIRWAYS,4511,Airlines,US,POS,12-05-2016,Active
+MERC00038,Harborview Retail Co.,5311,Department Stores,US,POS,2018-12-16,Active
+MERC00003,Northgate Inn,7011,"Hotels, Motels & Resorts",Deutschland,POS,20-06-2024,Active
+MERC00063,Skyline Grill,5812,Eating Places & Restaurants,BR,E-commerce,2015-11-24,ACTIVE
+MERC00323,Coastal Tech Store,5732,Electronics Stores,IN,E-commerce,18-12-2015,Active
+MERC00233, Bluepeak Digital ,5732,Electronics Stores,MX,POS,2020-12-06,Active 
+MERC00375,Ironwood ATM,6011,Automated Teller Machines (ATM),United States,ATM ,04-03-2016,INACTIVE
+MERC00146,Skyline Inn,7011,"Hotels, Motels & Resorts",FR,E-commerce,44436,Active 
+MERC00245,Meadow Air,4511,Airlines,AE,POS,2024-02-24,Active
+MERC00074,summit service station,5541,Service Stations (Fuel),AU,Both,24-12-2019,Active
+MERC00377,Bluepeak ATM,6011,Automated Teller Machines (ATM),AE,ATM,2016-04-20,Inactive
+MERC00105,Meadow General Store,5999,Miscellaneous Retail,DE, Both ,2021-08-21,Active 
+MERC00156,Riverside Diner,5812,Eating Places & Restaurants,FR,Both,2017-02-20,Active
+MERC00017,Northgate Games,7995,Entertainment & Gaming,DE,POS,23-06-2025,Active 
+MERC00394,Highland ATM,6011,Automated Teller Machines (ATM),AU,ATM,17-09-2018,Active
+MERC00089,Meadow Gas & Go,5541,Service Stations (Fuel),ae,Both,19-03-2021,active
+MERC00217,Skyline Emporium,5999,Miscellaneous Retail,BR,Both,2016-11-04,Active
+MERC00103,Ironwood Emporium,5999,Miscellaneous Retail,Germany,Both,04-01-2022,Active 
+MERC00308,Crescent Grill,5812,Eating Places & Restaurants,US,POS,2022-09-04,active
+MERC00071,Fieldstone Air,4511,Airlines,JP,POS,2023-09-24,Active 
+MERC00134,Fieldstone Games,7995,Entertainment & Gaming,IN,E-commerce,08-03-2017,Active
+MERC00201,harborview resort,7011,"Hotels, Motels & Resorts",US,POS,21-04-2019,active
+MERC00349,Ironwood Digital,5732,Electronics Stores,US,POS,31-07-2018,Inactive
+MERC00237,Bluepeak Drug Store,5912,Drug Stores & Pharmacies,SG,POS,2018-11-18,Active
+MERC00270,Highland Digital,5732,Electronics Stores,US,POS,24-03-2020,Active
+MERC00019,Cédar Diner,5812,Eating Places & Restaurants,MX,E-commerce,45130,Active 
+MERC00315,Summit Emporium,5999,Miscellaneous Retail,CA,POS,2023-11-12,active
+MERC00021,Harborview Tech Store,5732,Electronics Stores,BR,POS,42380,ACTIVE
+MERC00056,Northgate Gas & Go,5541,Service Stations (Fuel),Mexico,POS,2018-01-24,Active
+MERC00208,Coastal Hotel,7011,"Hotels, Motels & Resorts",SG,POS,14-02-2019,Active
+MERC00347,Coastal Inn,7011,"Hotels, Motels & Resorts",de,E-commerce,2018-08-06,Active
+MERC00357,Ironwood Pharmacy,5912,Drug Stores & Pharmacies,GB,Both,24-07-2016,None
+MERC00250,Greenway  Emporium,5999,Miscellaneous Retail,IN,POS,08-01-2022,Active
+MERC00328,Fieldstone Resort,7011,"Hotels, Motels & Resorts",Canada, Both ,2019-12-27,Active
+MERC00163,Highland Entertainment,7995,Entertainment & Gaming,CA,Both,03-11-2018,Active
+MERC00222 ,Highland Store,5311,Department Stores,FR,Both,2015-08-25,active
+MERC00098,Metro Arcade,7995,Entertainment & Gaming,US,Both,2025-03-19,Active
+MERC00325,Lakeside Inn,7011,"Hotels, Motels & Resorts",CA,E-commerce,42636,Active
+MERC00155, Meadow Airlines ,4511,Airlines,JP,Both,10-05-2015,INACTIVE
+MERC00123,Skyline Department Store,5311,Department Stores,US,E-commerce,01-02-2023,Active
+MERC00114,  Silverline Drug Store,5912,Drug Stores & Pharmacies,MX,Both,30-08-2019,Active
+MERC00307,Crescent Department Store,5311,Department Stores,CA,Both,01-05-2020,Active
+MERC00269,Skyline Air,4511,Airlines,DE,Both,11-03-2021, Active
+ MERC00109 , Union Retail Co. ,5311,Department Stores,JP,E-commerce,20-12-2017, Active
+MERC00256,Old Town General Store,5999,Miscellaneous Retail,FR,POS  ,14-01-2024,inactive
+MERC00095,Old Town Grill,5812,Eating Places & Restaurants,BR,POS,2020-01-18,Active
+MERC00188,Meadow Fresh Foods,5411,Grocery Stores & Supermarkets,US,POS,07-05-2018, Active
+MERC00126,Lakeside Fresh Foods,5411,Grocery Stores & Supermarkets,IN,POS,04-01-2016,Active
+MERC00249,Highland Inn,7011,"Hotels, Motels & Resorts",FR,Both,07-09-2015,Active
+MERC00395,Old Town ATM,6011,Automated Teller Machines (ATM),IN,ATM,2019-10-13,active
+MERC00092,Silvérline Inn,7011,"Hotels, Motels & Resorts",IN,Both,19-06-2019,Active
+MERC00390,Cedar ATM,6011,Automated Teller Machines (ATM),Mexico,ATM,05-08-2022,Active
+MERC00345,Skyline Store,5311,Department Stores,DE,E-commerce,43561, Active
+MERC00369,Meadow Department Store,5311,Department Stores,IN,E-commerce,17-09-2022,Active
+MERC00189,Skyline  Diner,5812,Eating Places & Restaurants,GB,Both,30-05-2025,Active 
+MERC00205,  Ironwood  Bistro,5812,Eating Places & Restaurants,IN,Both,21-03-2020,Active
+MERC00335,Highland Bistro,5812,Eating Places & Restaurants,CA,Both,44973,Active
+MERC00025,Skyline Airways,4511,Airlines,US,POS,26-04-2015,Active
+MERC00262,Coastal Inn,7011,"Hotels, Motels & Resorts",AE,POS,2019-03-25,Active
+MERC00296,Bluepeak Bistro,5812,Eating Places & Restaurants,BR,POS,2020-11-17,Active
+MERC00127,Union Health Mart,5912,Drug Stores & Pharmacies,United Kingdom,POS,2017-09-13,Active
+MERC00333,SKYLINE STORE,5311,Department Stores,DE,POS,15-09-2021,Active
+MERC00079,Crescent Inn,7011,"Hotels, Motels & Resorts",US,E-commerce,2023-09-10,Active
+MERC00334,Greenway Market,5411,Grocery Stores & Supermarkets,AU,POS,43200,ACTIVE
+MERC00179,Silverline Fuel Stop,5541,Service Stations (Fuel),AU,Both,44943, Active
+MERC00293,Crescent Games,7995,Entertainment & Gaming,India,Both,06-02-2023,Active
+MERC00294,Brookfield Inn,7011,"Hotels, Motels & Resorts",IN,E-commerce,2015-03-12,Active
+MERC00304,Silverline Shop,5999,Miscellaneous Retail,FR,POS,05-12-2015,Active
+MERC00352,Meadow Bistro,5812,Eating Places & Restaurants,IN,POS,14-06-2025,Active
+MERC00289,Metro Health Mart,5912,Drug Stores & Pharmacies,BR,POS,09-03-2019,N/A
+MERC00062,Ironwood Shop,5999,Miscellaneous Retail,DE,Both,2021-02-12,Active
+MERC00285,Metro Grocers,5411,Grocery Stores & Supermarkets,United Kingdom,E-commerce,2020-11-16,Active 
+MERC00094,Skyline Grill,5812,Eating Places & Restaurants,United States, Both ,28-05-2016,Active
+MERC00398,Greenway ATM,6011,Automated Teller Machines (ATM),US,ATM,2017-02-02,active
+MERC00223,Riverside Resort,7011,"Hotels, Motels & Resorts",DE,E-commerce,10-02-2023,Active
+MERC00070,Bluepeak Pharmacy,5912,Drug Stores & Pharmacies,AU,Both,42147,Active
+MERC00037,Greenway General Store,5999,Miscellaneous Retail,Canada,POS,08-04-2018,active
+MERC00041,Brookfield Games,7995,Entertainment & Gaming,SG,Both,2023-10-27,Active
+MERC00161,Silverline Service Station  ,5541,Service Stations (Fuel),IN,POS,05-06-2022, Active
+MERC00290,Silverline Retail Co.,5311,Department Stores,India,Both,27-03-2025,Active
+MERC00012,Méadow Gas & Go,5541,Service Stations (Fuel),SG,Both,2022-08-10,Active
+MERC00145,Lakéside Service Station,5541,Service Stations (Fuel),IN,E-commerce,2016-10-27,Active
+MERC00360,Silverline Health Mart,5912,Drug Stores & Pharmacies,CA,POS,2021-09-15,Active
+MERC00311,Lakeside General Store,5999,Miscellaneous Retail,AU,Both,09-06-2023,active
+MERC00240,Northgate Airlines,4511,Airlines,AU,POS,03-10-2015,active
+MERC00128,Metro Gas & Go,5541,Service Stations (Fuel),GB,POS,42204,ACTIVE
+MERC00303,Riverside Health Mart,5912,Drug Stores & Pharmacies,US,Both,18-08-2015,Active
+MERC00185,Cedar Market,5411,Grocery Stores & Supermarkets,GB,POS,29-03-2025,Active
+MERC00047,Cedar Games,7995,Entertainment & Gaming,CA,E-commerce,43391,Active
+MERC00244,Brookfield  Market,5411,Grocery Stores & Supermarkets,AU,E-commerce,27-07-2016,Active
+MERC00320,Old Town Résort,7011,"Hotels, Motels & Resorts",US,Both,2023-10-15,Active
+MERC00365,Meadow Retail Co.,5311,Department Stores,US,Both,2015-07-01,Active
+MERC00177,Brookfield Airways,4511,Airlines,SG,POS,42212,Active
+MERC00211,Highland Tech Store,5732,Electronics Stores,IN,POS,15-11-2022,Active
+MERC00129,Silverline Drug Store,5912,Drug Stores & Pharmacies,IN,Both,13-09-2021,ACTIVE
+MERC00144,skyline games,7995,Entertainment & Gaming,United States,POS,2016-07-26,Active
+MERC00008,Greenway Drug Store,5912,Drug Stores & Pharmacies,US,POS,28-06-2015,Active
+MERC00354,Old Town Games,7995,Entertainment & Gaming,US,POS,21-04-2015,Active
+MERC00378,Ironwood  ATM,6011,Automated Teller Machines (ATM),DE,ATM,27-11-2018,ACTIVE
+MERC00309,Metro Department Store,5311,Department Stores,US,POS,44700,Active
+MERC00180,Highland General Store,5999,Miscellaneous Retail,US,Both,22-01-2015,Active
+MERC00173,Silverline Hotel,7011,"Hotels, Motels & Resorts",US,POS,20-05-2023,ACTIVE
+MERC00218,union health mart,5912,Drug Stores & Pharmacies,United States,POS,2016-04-21,Active
+MERC00301,Metro Bistro,5812,Eating Places & Restaurants,FR,Both,01-05-2022,Active
+MERC00009,Coastal Air,4511,Airlines,United Kingdom,Both,43824,Active 
+MERC00157,Bluepeak  Gas & Go,5541,Service Stations (Fuel),DE,POS,2019-09-12, Inactive
+MERC00028,Silverline Shop,5999,Miscellaneous Retail,SG,POS,2023-07-06,Active
+MERC00356,Greenway Grill,5812,Eating Places & Restaurants,AU,Both,08-03-2024, Active
+MERC00359,Lakeside Electronics,5732,Electronics Stores,sg,Both,07-11-2023,active
+MERC00059,Silvérline Shop,5999,Miscellaneous Retail,US,POS,25-07-2020, Active
+MERC00206,Brookfield Digital,5732,Electronics Stores,US,POS,2022-09-11,ACTIVE
+MERC00065,Old Town Tech Store,5732,Electronics Stores,IN,Both,13-11-2016, Active
+MERC00083,Skyline Health Mart,5912,Drug Stores & Pharmacies,IN, Both ,26-12-2015,Active
+MERC00283,Highland Shop,5999,Miscellaneous Retail,Singapore,POS,2023-01-29,INACTIVE
+MERC00214,Fieldstone Pharmacy,5912,Drug Stores & Pharmacies,AE,E-commerce,2020-12-03,Active
+MERC00259,Skyline Inn,7011,"Hotels, Motels & Resorts",Germany,Both,12-04-2017,Active
+MERC00154,Lakeside Department Store,5311,Department Stores,GB,POS,08-09-2023,Active 
+MERC00049,Bluepeak General Store,5999,Miscellaneous Retail,DE,E-commerce,2024-02-06,Active
+MERC00209,Silverline Airways,4511,Airlines,US,Both,01-07-2016,Active
+MERC00255,Harborview Air,4511,Airlines,CA,POS,45483,Active
+MERC00032,Ironwood Hotel,7011,"Hotels, Motels & Resorts",IN,E-commerce,31-08-2017,active
+MERC00002,BLUEPEAK AIRWAYS,4511,Airlines,IN,POS,17-07-2016,Active
+MERC00172,Old Town Grill,5812,Eating Places & Restaurants,Japan,Both,19-11-2018,ACTIVE
+MERC00267,Silverline Bistro,5812,Eating Places & Restaurants,Mexico,Both,45064,ACTIVE
+MERC00014,Greenway Arcade,7995,Entertainment & Gaming,US,E-commerce,2020-11-30,Active
+MERC00374  ,Silverline ATM,6011,Automated Teller Machines (ATM),FR,ATM,11-04-2015,Active
+MERC00010,Highland Pharmacy,5912,Drug Stores & Pharmacies,ca,POS,16-08-2017,Active
+MERC00147,Silverline Games,7995,Entertainment & Gaming,United States,E-commerce,20-12-2020,Active
+  MERC00265,Skyline Drug Store  ,5912,Drug Stores & Pharmacies,United States,E-commerce,2017-05-05,Active
+MERC00271,Crescent Gas & Go,5541,Service Stations (Fuel),BR,E-commerce,2018-06-17, Active
+MERC00379,Old Town ATM,6011,Automated Teller Machines (ATM),BR,ATM,43410,active
+MERC00096,Bluepeak Games,7995,Entertainment & Gaming,FR,Both,43416,Active
+MERC00035,Highland Pharmacy,5912,Drug Stores & Pharmacies,BR,POS,2021-09-10, Active
+MERC00097,Bluepeak Store,5311,Department Stores,DE,E-commerce,2017-01-15,Active
+MERC00397,CEDAR ATM,6011,Automated Teller Machines (ATM),MX,ATM,23-01-2022,Inactive
+MERC00284,Highland Emporium,5999,Miscellaneous Retail,US,POS,2025-04-13,Active
+MERC00366,Skyline Tech Store,5732,Electronics Stores,DE,E-commerce,2023-06-10, Active
+MERC00383,Old Town ATM,6011,Automated Teller Machines (ATM),AU,ATM,04-02-2016,Active
+MERC00051,Union Grocers,5411,Grocery Stores & Supermarkets,US,E-commerce,2023-11-15,Inactive
+MERC00117,Bluepeak Gas & Go,5541,Service Stations (Fuel),US,POS,22-06-2019,Inactive
+MERC00046,metro gas & go,5541,Service Stations (Fuel),IN,POS,30-06-2016,Active
+MERC00162,Cedar Tech Store,5732,Electronics Stores,US,POS,09-07-2018,Active
+MERC00314,Lakeside Games,7995,Entertainment & Gaming,CA,Both,2018-09-20, Active
+MERC00118,Northgate Entertainment,7995,Entertainment & Gaming,IN,E-commerce,19-04-2021,Inactive
+MERC00078,Highland Arcade,7995,Entertainment & Gaming,BR,Both,05-05-2019,Active
+MERC00321,Highland Air,4511,Airlines,United Arab Emirates,Both,2018-12-28,Active
+MERC00064,Old Town Inn,7011,"Hotels, Motels & Resorts",CA,POS,43260,Inactive
+MERC00231,Highland Bistro,5812,Eating Places & Restaurants,CA,E-commerce,44801,Active
+MERC00187,Ironwood Pharmacy,5912,Drug Stores & Pharmacies,AU,E-commerce,2017-02-02,Active
+MERC00274,Skyline Air,4511,Airlines,IN,E-commerce,2019-02-27, Active
+MERC00200,Harborview Fuel Stop,5541,Service Stations (Fuel),United States,POS,2025-06-30,Active
+MERC00278,SKYLINE GENERAL STORE,5999,Miscellaneous Retail,us,Both,14-03-2017,Active
+MERC00122,Cedar Tech Store,5732,Electronics Stores,DE,POS,13-10-2017,Active
+MERC00380,Union  ATM,6011,Automated Teller Machines (ATM),JP,ATM,18-10-2023,ACTIVE
+MERC00353,Cedar Retail Co.,5311,Department Stores,Australia,E-commerce,12-02-2021,Active
+MERC00159,Metro Health Mart,5912,Drug Stores & Pharmacies,US,Both,2024-10-15,active
+MERC00086,Fieldstone Emporium,5999,Miscellaneous Retail,Mexico,POS,25-11-2023,Active 
+MERC00226, Summit Digital ,5732,Electronics Stores,GB,POS,12-11-2018,Active
+MERC00263,Summit Grocers,5411,Grocery Stores & Supermarkets,Brazil,Both,2024-10-18,ACTIVE
+MERC00329,Summit Bistro,5812,Eating Places & Restaurants,IN,POS,26-06-2016,Active
+MERC00077,Cedar Diner,5812,Eating Places & Restaurants,JP,E-commerce,17-04-2015,Active
+MERC00319,Skyline Electronics,5732,Electronics Stores,US,Both,2023-09-04,ACTIVE
+MERC00306,Union Fresh Foods,5411,Grocery Stores & Supermarkets,JP,Both,42946,active
+MERC00088,Silverline Airways,4511,Airlines,United States,POS,12-11-2023, Active
+MERC00364,Fieldstone  Airways,4511,Airlines,Japan,E-commerce,17-05-2022,Inactive
+MERC00183,Metro Hotel,7011,"Hotels, Motels & Resorts",us,POS,2022-03-30,Active
+MERC00106, Coastal Emporium ,5999,Miscellaneous Retail,United States,Both,2022-05-22,Active
+MERC00050,Ironwood Pharmacy,5912,Drug Stores & Pharmacies,Mexico,POS,42156,Active
+MERC00006,Bluepeak Department Store,5311,Department Stores,BR,POS,24-03-2019,Active
+MERC00018,Northgate Entertainment,7995,Entertainment & Gaming,US,E-commerce,18-07-2024,Active
+MERC00235,Highland Resort,7011,"Hotels, Motels & Resorts",Mexico,Both,2020-03-11,active
+MERC00327,Summit Fuel Stop,5541,Service Stations (Fuel),DE,POS,12-03-2016,N/A
+MERC00107,Meadow Department Store,5311,Department Stores,CA,Both,14-10-2018,Active
+MERC00135,Lakéside Inn,7011,"Hotels, Motels & Resorts",CA,E-commerce,2015-10-29,Active
+MERC00331,NORTHGATE ARCADE,7995,Entertainment & Gaming,US,POS,30-07-2019,Active
+MERC00227,Summit Market,5411,Grocery Stores & Supermarkets,MX,Both,25-06-2025,Active 
+MERC00215,Metro Retail Co.,5311,Department Stores,DE,Both,04-04-2016, Active
+MERC00191,Bluepeak Health Mart,5912,Drug Stores & Pharmacies,GB,Both,21-12-2024,Active
+MERC00362,Metro Tech Store,5732,Electronics Stores,US,Both,2021-02-04,Inactive
+MERC00283,Highland Shop,5999,Miscellaneous Retail,Singapore,POS,2023-01-29,Active
+MERC00030,Bluepeak Inn,7011,"Hotels, Motels & Resorts",US,Both,2017-06-02,Active
+MERC00170  ,LAKESIDE ENTERTAINMENT,7995,Entertainment & Gaming,Singapore,Both,05-04-2019,Active
+MERC00181,Silverline Tech Store  ,5732,Electronics Stores,CA,Both,44679,Active
+MERC00101, Ironwood Arcade ,7995,Entertainment & Gaming,MX,Both,13-01-2025,Active
+MERC00198,Lakeside Service Station,5541,Service Stations (Fuel),FR,Both,22-12-2015,Active 
+MERC00210,Coastal  Drug Store,5912,Drug Stores & Pharmacies,CA,Both,21-05-2023,Active
+MERC00136,Highland Drug Store,5912,Drug Stores & Pharmacies,Brazil,POS,45135,Active
+MERC00385,Summit ATM,6011,Automated Teller Machines (ATM),GB,ATM,30-07-2018,Active
+MERC00351,Lakeside Tech Store,5732,Electronics Stores,JP,Both,22-02-2018,Active
+MERC00199,Bluepeak Diner,5812,Eating Places & Restaurants,CA,POS,42761,Active
+MERC00167,SILVERLINE AIR,4511,Airlines,JP,POS,2022-09-28,Active
+MERC00322,Meadow Digital,5732,Electronics Stores,US,POS,2017-01-30,Active
+MERC00137,Coastal Department Store,5311,Department Stores,Japan,POS,2022-08-18,Active 
+MERC00286,Rivérside Market,5411,Grocery Stores & Supermarkets,United Kingdom,Both,28-07-2023,Active
+MERC00132,Lakeside Gas & Go,5541,Service Stations (Fuel),IN,POS,26-07-2023,Active 
+MERC00040,Brookfield Service Station,5541,Service Stations (Fuel),BR,POS,42282,Active
+MERC00216,Meadow Games,7995,Entertainment & Gaming,MX,POS,08-04-2017,Inactive
+MERC00044,Summit Market,5411,Grocery Stores & Supermarkets,MX,POS,02-01-2019,Active
+ MERC00055 ,Metro Service Station,5541,Service Stations (Fuel),AE,E-commerce,01-09-2024,INACTIVE
+MERC00388,Skyline ATM,6011,Automated Teller Machines (ATM),IN,ATM,03-04-2015,Active
+MERC00300,Harborview Air,4511,Airlines,Japan,POS,26-10-2022,Active 
+MERC00372,Brookfield ATM,6011,Automated Teller Machines (ATM),DE,ATM,29-09-2022,Active 
+MERC00305,Northgate Service Station,5541,Service Stations (Fuel),AE,POS,2021-05-06,Active
+MERC00036,Harborview Games,7995,Entertainment & Gaming,in,POS,2021-06-13,Active
+MERC00316,Northgate Gas & Go,5541,Service Stations (Fuel),AU,POS,2015-08-08,Active
+MERC00310,Union Service Station,5541,Service Stations (Fuel),United States,Both,06-03-2015,Active 
+MERC00277,Greenway Store,5311,Department Stores,United States,Both,30-06-2021,Inactive
+MERC00125,Ironwood Drug Store,5912,Drug Stores & Pharmacies,US,E-commerce,09-11-2024,active
+MERC00143,Bluepeak Games,7995,Entertainment & Gaming,US,Both,15-02-2020,ACTIVE
+MERC00111,Ironwood Entertainment,7995,Entertainment & Gaming,FR,Both,01-04-2018,Active
+MERC00324,summit airways,4511,Airlines,Germany,E-commerce,30-12-2022,ACTIVE
+MERC00358,Bluepeak Inn,7011,"Hotels, Motels & Resorts",MX,Both,21-05-2022,Active 
+MERC00108,Metro Fresh Foods,5411,Grocery Stores & Supermarkets,JP,Both,29-11-2015,Active
+MERC00013,Ironwood Drug Store,5912,Drug Stores & Pharmacies,US,Both,2023-08-18,Active
+MERC00273,Silverline Diner,5812,Eating Places & Restaurants,Singapore,E-commerce,02-01-2024,Inactive
+MERC00048,Silverline Health Mart,5912,Drug Stores & Pharmacies,AE,Both,19-10-2022,Inactive
+MERC00204,Harborview Fuel Stop,5541,Service Stations (Fuel),au,Both,08-10-2022,ACTIVE
+MERC00364,Fieldstone  Airways,4511,Airlines,Japan,E-commerce,17-05-2022,Active
+MERC00120,Bluepeak Pharmacy,5912,Drug Stores & Pharmacies,Japan,POS,12-10-2017,Active 
+MERC00022,Riverside Gas & Go,5541,Service Stations (Fuel),GB,POS,08-06-2025,Active
+MERC00084,Summit Service Station,5541,Service Stations (Fuel),MX,POS,16-12-2022,Active
+MERC00131,Crescent Emporium  ,5999,Miscellaneous Retail,Brazil,Both,23-11-2024,Active
+MERC00330,Highland Digital,5732,Electronics Stores,IN,POS,43843,Active
+MERC00230,Lakeside Tech Store,5732,Electronics Stores,AU,E-commerce,43842, Active
+MERC00118,Northgate Entertainment,7995,Entertainment & Gaming,IN,E-commerce,19-04-2021,Active
+MERC00287,Harborview General Store,5999,Miscellaneous Retail,AU,POS,13-06-2024,Active
+MERC00124,Brookfield Shop,5999,Miscellaneous Retail,JP,POS,02-08-2020,Active
+MERC00034,Summit Department Store,5311,Department Stores,CA,Both,16-02-2020, Active
+MERC00386,Metro ATM  ,6011,Automated Teller Machines (ATM),IN,ATM,2018-05-14,ACTIVE
+MERC00005,COASTAL FUEL STOP,5541,Service Stations (Fuel),IN,E-commerce,29-10-2024,Active 
+MERC00020,Brookfield  Pharmacy,5912,Drug Stores & Pharmacies,US,POS,25-02-2025, Active
+MERC00220,Metro Drug Store,5912,Drug Stores & Pharmacies,IN,E-commerce,2024-01-26,Active
+MERC00196,Coastal Airlines,4511,Airlines,DE,Both,19-12-2016,inactive
+MERC00150,Riverside Retail Co.,5311,Department Stores,SG,POS,14-06-2018,Inactive
+MERC00225,Summit Airways,4511,Airlines,United States,POS,26-06-2021,Active
+MERC00248,Greenway Entertainment,7995,Entertainment & Gaming,Singapore,POS,24-06-2017,Active
+MERC00363,Summit Arcade,7995,Entertainment & Gaming,AE,E-commerce,29-08-2021,Active
+MERC00152,Metro Airlines,4511,Airlines,IN,E-commerce,2023-02-02,Active 
+MERC00318,Coastal Retail Co.  ,5311,Department Stores,AE,Both,2023-08-16,Active
+MERC00292, Riverside Arcade ,7995,Entertainment & Gaming,GB,POS,12-08-2019,ACTIVE
+MERC00234,Riverside Airways,4511,Airlines,GB,E-commerce,12-05-2024,Active
+MERC00011,Silverline Hotel,7011,"Hotels, Motels & Resorts",IN,Both,2024-01-26,Active 
+MERC00280,Skyline Entertainment,7995,Entertainment & Gaming,BR,POS,05-05-2022,ACTIVE
+MERC00072,meadow electronics,5732,Electronics Stores,CA,POS,25-08-2025,ACTIVE
+MERC00253,Bluepeak Tech Store,5732,Electronics Stores,SG,POS,31-07-2019,Active
+MERC00093,Greenway Digital,5732,Electronics Stores,Japan,POS,17-08-2023,Active
+MERC00350,Harborview Drug Store,5912,Drug Stores & Pharmacies,GB,POS,16-06-2021,ACTIVE
+MERC00193,Old Town Service Station,5541,Service Stations (Fuel),United Kingdom,E-commerce,27-10-2016,ACTIVE
+MERC00258,Lakeside Arcade,7995,Entertainment & Gaming,US,POS,03-07-2016,Active
+MERC00340,Silverline Electronics,5732,Electronics Stores,Canada,Both,12-05-2018,Active
+MERC00400,Coastal ATM,6011,Automated Teller Machines (ATM),BR,ATM,09-04-2023,Active
+MERC00196,Coastal Airlines,4511,Airlines,DE,Both,19-12-2016,Active
+MERC00344,Lakeside Market,5411,Grocery Stores & Supermarkets,GB,Both,2025-08-22,Inactive
+MERC00138,Lakeside Shop,5999,Miscellaneous Retail,SG,POS,01-02-2016,ACTIVE
+MERC00261,Union Bistro,5812,Eating Places & Restaurants,IN,E-commerce,44198,Active
+MERC00039,Summit Digital,5732,Electronics Stores,Japan,POS,06-02-2017, Inactive
+MERC00202,Ironwood Inn,7011,"Hotels, Motels & Resorts",us,POS,2018-09-12,Active
+MERC00382,Silverline ATM,6011,Automated Teller Machines (ATM),JP,ATM,2018-11-27,Active
+MERC00291,Riverside Health Mart,5912,Drug Stores & Pharmacies,Germany,Both,06-03-2015,Active
+MERC00190,Highland Health Mart,5912,Drug Stores & Pharmacies,SG,POS,44631,Active
+MERC00252,Brookfield Tech Store,5732,Electronics Stores,US,POS,2023-10-24,ACTIVE
+MERC00113,Metro Pharmacy,5912,Drug Stores & Pharmacies,au,Both,2015-10-26,Active 
+MERC00184,Highland Retail Co.,5311,Department Stores,United States,POS,09-08-2017,Active
+MERC00153,Brookfield  Health Mart,5912,Drug Stores & Pharmacies,US,POS,29-11-2016,Active
+MERC00313,Lakeside Retail Co.,5311,Department Stores,Brazil,POS,45423, Active
+MERC00326,Lakeside Shop,5999,Miscellaneous Retail,US,E-commerce,18-04-2023,Active
+MERC00192,Union Pharmacy,5912,Drug Stores & Pharmacies,Mexico,POS  ,43122,Active
+MERC00045,Northgate Airlines,4511,Airlines,US,Both,2023-03-22,Active
+MERC00276,Crescent Emporium,5999,Miscellaneous Retail,India,E-commerce,2015-03-08,Active
+MERC00007,coastal general store,5999,Miscellaneous Retail,AU,Both,28-04-2024,ACTIVE
+MERC00251,Fieldstone Health Mart,5912,Drug Stores & Pharmacies,JP,Both,12-07-2015,Active
+MERC00312,Meadow Hotel,7011,"Hotels, Motels & Resorts",FR,POS,27-10-2016,Active 
+MERC00076  ,Crescent Fuel Stop,5541,Service Stations (Fuel),IN,POS,2022-04-14,Active
+MERC00001,Silverline Fuel Stop,5541,Service Stations (Fuel),CA,E-commerce,17-08-2025,Active
+MERC00384,Old Town ATM,6011,Automated Teller Machines (ATM),US,ATM,2023-02-05,Active
+MERC00069,BLUEPEAK EMPORIUM,5999,Miscellaneous Retail,fr,POS,08-05-2015,Active
+MERC00168,Highland  Health Mart,5912,Drug Stores & Pharmacies,Japan,POS,29-11-2018,Active 
+MERC00393,Cedar ATM,6011,Automated Teller Machines (ATM),US,ATM,10-03-2021,Active 
+MERC00219,Summit Retail Co.,5311,Department Stores,US,E-commerce,25-06-2020,Active 
+MERC00043  ,Crescent Digital,5732,Electronics Stores,IN,POS,2019-03-10,Active
+MERC00367,Northgate Diner,5812,Eating Places & Restaurants,CA,E-commerce,42048,Active
+MERC00346,Coastal Fuel Stop,5541,Service Stations (Fuel),MX,Both,30-10-2019,ACTIVE
+MERC00073,Old Town Store,5311,Department Stores,AU,Both,2016-09-20,Active
+MERC00024,Summit Air,4511,Airlines,JP,POS,01-05-2019,Active
+MERC00399,Riverside ATM,6011,Automated Teller Machines (ATM),AU,ATM,2019-06-09,Active
+MERC00186,Metro Shop,5999,Miscellaneous Retail,Germany,E-commerce,22-06-2025,active
+MERC00349,Ironwood Digital,5732,Electronics Stores,US,POS,31-07-2018,Active
+MERC00104,Brookfield Games,7995,Entertainment & Gaming,Germany,E-commerce,42387,Active
+MERC00212,Union Arcade,7995,Entertainment & Gaming,IN,POS  ,2023-12-29,Active
+MERC00068,brookfield digital,5732,Electronics Stores,Brazil,POS,28-01-2019,Active
+MERC00026,Bluepeak Fuel Stop,5541,Service Stations (Fuel),GB,POS,2023-11-16,Active 
+MERC00197,Greenway Digital,5732,Electronics Stores,IN,E-commerce,2024-04-10,active
+MERC00176,Meadow Bistro,5812,Eating Places & Restaurants,Canada,POS,2021-11-26,Active
