@@ -47,13 +47,13 @@ normalized.
 
 ## Roadmap
 BRONZE
-- [ ] Create table for each file
-- [ ] Import the raw data from localfiles, as-it-is, to the databasetables
-- [ ] Create "stored procedure" for importing any new data from the source files
+- [x] Create table for each file
+- [x] Import the raw data from localfiles, as-it-is, to the databasetables
+- [x] Create "stored procedure" for importing any new data from the source files
 SILVER
-- [ ] Profile each source file (nulls, duplicates, distinct values, key coverage)
-- [ ] Clean & conform (standardize types/formats, resolve cross-source conflicts)
-- [ ] Create "stored procedure" for importing new data from the bronze tables
+- [x] Profile each source file (nulls, duplicates, distinct values, key coverage)
+- [x] Clean & conform (standardize types/formats, resolve cross-source conflicts)
+- [x] Create "stored procedure" for importing new data from the bronze tables
 GOLD
 - [ ] Design the dimensional model based on findings + the KPI requirements
 - [ ] Build the ETL pipeline and load into the warehouse
