@@ -1,5 +1,9 @@
--- SILVER LAYER
-/* This query creates all the tables in the Silver Layer of the DWH*/
+/*
+=============================================================================================
+SILVER LAYER
+This query creates all the tables with desired data-types for the Silver Layer of the DWH
+=============================================================================================
+*/
 
 -- Creating the "api_logs" table
 IF OBJECT_ID ('silver_api_logs', 'U') IS NOT NULL
