@@ -1,3 +1,25 @@
+/*
+===============================================================================
+Stored Procedure: dbo.bronze_load_bronze
+Description:      Executes the full-load ingestion pipeline for the Bronze layer.
+                  This procedure imports raw, uncleaned, and untreated data from 
+                  source flat files (CSV, TSV, JSONL) directly into the database. 
+                  
+Design Pattern:   Truncate and Load (Full Load)
+Data State:       Raw / "As-Is". Data is imported with all original formatting, 
+                  inconsistencies, duplicates, and incorrect data types intact. 
+                  (Cleansing is reserved for the Silver layer).
+
+Key Operations:
+    - Tracks execution time per table and for the entire batch.
+    - Handles JSONL formatting by converting to a standard JSON array for parsing.
+    - Uses BULK INSERT for high-performance flat file ingestion.
+    - Removes trailing aggregation rows (e.g., "Total") from financial data to 
+      prevent datatype parsing errors during bulk load.
+    - Includes TRY...CATCH blocks for safe execution and error logging.
+===============================================================================
+*/
+
 CREATE OR ALTER PROCEDURE dbo.bronze_load_bronze AS
 BEGIN
     DECLARE @start_time DATETIME, @end_time DATETIME, @batch_start_time DATETIME, @batch_end_time DATETIME
