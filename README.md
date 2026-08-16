@@ -6,7 +6,7 @@ Building a data warehouse from scratch for a fictional global card-payments
 business, modeled loosely on how a company like Mastercard operates. The
 end goal: a warehouse that can answer a defined set of business KPIs
 spanning network operations, revenue, ecosystem growth, and platform
-health — roughly 20 KPIs across those four categories.
+health — roughly 10 KPIs across those four categories.
 
 **Current stage: raw data intake(bronze).** The dimensional model — how many
 fact/dimension tables, what grain, what gets conformed vs. dropped — isn't
