@@ -208,7 +208,8 @@ Getting data into the "silver_card_master_system_A" table
                 WHEN 'Mexico' THEN 'MX'
                 WHEN 'Singapore' THEN 'SG'
                 WHEN 'United Arab Emirates' THEN 'AE'
-                WHEN 'United Kingdom' THEN 'UK'
+                WHEN 'United Kingdom' THEN 'GB'
+                WHEN 'UK' THEN 'GB'
                 WHEN 'United States' THEN 'US'
                 ELSE TRIM(UPPER(Issuance_Country))
             END as issuance_country,
@@ -312,7 +313,7 @@ Getting data into the "silver_merchant_incremental" table
               ,mcc_code as merchant_code
               ,Case when trim(country) = 'Canada' then 'CA'
                     when trim(country) = 'Germany' then 'DE'
-                    when trim(country) = 'United Kingdom' then 'UK'
+                    when trim(country) = 'United Kingdom' then 'GB'
                     when trim(country) = 'United Arab Emirates' then 'AE'
                     when trim(country) = 'India' then 'IN'
                     Else trim(country)
@@ -364,7 +365,7 @@ Getting data into the "silver_merchant_master" table
                     WHEN 'MEXICO' THEN 'MX'
                     WHEN 'SINGAPORE' THEN 'SG'
                     WHEN 'UNITED ARAB EMIRATES' THEN 'AE'
-                    WHEN 'UNITED KINGDOM' THEN 'UK'
+                    WHEN 'UNITED KINGDOM' THEN 'GB'
                     WHEN 'UNITED STATES' THEN 'US'
                     ELSE REPLACE(UPPER(TRIM(Country)), '.', '')
                 END as country
