@@ -146,7 +146,21 @@ Getting data into the "silver_country_reference" table
 	INSERT INTO silver_country_reference
 	SELECT
    		UPPER(TRIM(country_code)) as country_code,
-    		Country_Name as country_name,
+    		CASE 
+                WHEN UPPER(TRIM(country_name)) = 'UNITED STATES' THEN 'United States'
+                WHEN UPPER(TRIM(Country_Name)) = 'UNITED ARAB EMIRATES' THEN 'United Arab Emirates'
+                WHEN UPPER(TRIM(Country_Name)) = 'INDIA' THEN 'India'
+                WHEN UPPER(TRIM(Country_Name)) = 'GERMANY' THEN 'Germany'
+                WHEN UPPER(TRIM(Country_Name)) = 'CANADA' THEN 'Canada'
+                WHEN UPPER(TRIM(Country_Name)) = 'AUSTRALIA' THEN 'Australia'
+                WHEN UPPER(TRIM(Country_Name)) = 'MEXICO' THEN 'Mexico'
+                WHEN UPPER(TRIM(Country_Name)) = 'JAPAN' THEN 'Japan'
+                WHEN UPPER(TRIM(Country_Name)) = 'BRAZIL' THEN 'Brazil'
+                WHEN UPPER(TRIM(Country_Name)) = 'FRANCE' THEN 'France'
+                WHEN UPPER(TRIM(Country_Name)) = 'SINGAPORE' THEN 'Singapore'
+                WHEN UPPER(TRIM(Country_Name)) = 'UNITED KINGDOM' THEN 'United Kingdom'
+                ELSE UPPER(TRIM(Country_Name))
+            END as country_name,
     		CASE UPPER(TRIM(Region))
         		WHEN 'MEA' THEN 'Middle East & Africa'
         		WHEN 'APAC' THEN 'Asia-Pacific'
@@ -156,7 +170,8 @@ Getting data into the "silver_country_reference" table
     		END as region,
     		Currency as currency,
     		getdate() as import_time
-	FROM Bronze_country_reference;
+	FROM (SELECT *, ROW_NUMBER() OVER(PARTITION BY country_code ORDER BY Currency DESC) as flag from Bronze_country_reference)t
+    WHERE flag = 1;
 
 		SET @end_time = GETDATE();
 		PRINT '>>> Loaded: silver_country_reference table';
@@ -287,7 +302,7 @@ Getting data into the "silver_card_status_feed" table
                ELSE 'Inactive' END AS card_status
               ,CAST(last_updated AS DATE) AS last_updated
               ,getdate() as import_time
-          FROM dbo.Bronze_card_status_feed;
+        FROM dbo.Bronze_card_status_feed;
 		SET @end_time = GETDATE();
 		PRINT '>>> Loaded: silver_card_status_feed table';
 		PRINT '>>> Load Duration ' + CAST(DATEDIFF(second, @start_time, @end_time) AS NVARCHAR) + ' seconds';
@@ -565,8 +580,8 @@ Getting data into the "silver_transactions_legacy_2024H1" table
               ,CAST(REPLACE(REPLACE(amt,'$', ''), ',', '') as float) as transaction_amount
               ,TRIM(CCY) as currency
               ,CASE
-                WHEN STATUS = 'A' THEN 'Active'
-                ELSE 'Inactive'
+                WHEN STATUS = 'A' THEN 'Approved'
+                ELSE 'Declined'
                END as card_status
               ,CASE WHEN FLAG_INTL = 0 THEN 'No' ELSE 'Yes' END as international_transaction
               ,getdate() as import_date
