@@ -73,6 +73,20 @@
     SELECT country_code
           ,country_name
           ,currency
+          ,CASE
+		WHEN currency = 'AUD ' THEN 0.71049
+		WHEN currency = 'AED ' THEN 0.27226
+		WHEN currency = 'BRL ' THEN 0.19224
+		WHEN currency = 'CAD ' THEN 0.72088
+		WHEN currency = 'EUR ' THEN 1.15784
+		WHEN currency = 'EUR ' THEN 1.15784
+		WHEN currency = 'GBP ' THEN 1.35462
+		WHEN currency = 'INR ' THEN 0.01045
+		WHEN currency = 'JPY ' THEN 0.00627
+		WHEN currency = 'MXN ' THEN 0.05867
+		WHEN currency = 'SGD ' THEN 0.78263
+		ELSE 1
+	END as usd_multiplier
           ,region
           ,CASE WHEN region IN ('Middle East & Africa','Europe') THEN 'EMEA' ELSE 'APAC' END as zone
     FROM dbo.silver_country_reference;
