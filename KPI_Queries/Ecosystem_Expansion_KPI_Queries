@@ -77,7 +77,7 @@ Core Tables Referenced:
 		,FORMAT(((Tokenized_Share - Prev_Month_Tokenized_Share)/NULLIF(Prev_Month_Tokenized_Share,0)),'00.00%') as Tokenized_Growth_Percentage
 	FROM transaction_share
 	ORDER BY Period;
-
+/*
 ================================
 END
-================================
+================================*/
