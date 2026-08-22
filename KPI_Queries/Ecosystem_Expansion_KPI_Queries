@@ -1,0 +1,83 @@
+/*
+==================================================================================================
+SCRIPT SUMMARY: Ecosystem Expansion & Technology Adoption
+==================================================================================================
+Purpose:
+Measures the physical and digital expansion of the payment network. This script highlights 
+merchant acceptance gaps and tracks consumer adoption of modern, secure payment technologies.
+
+Key Analytics:
+- Merchant Acceptance: Evaluates active merchant locations against global and national averages 
+  to flag underrepresented markets and categories.
+- Digital Adoption: Calculates total share and Month-over-Month (MoM) growth rates for 
+  Contactless and Tokenized transactions.
+
+Core Tables Referenced:
+- Facts: gold_fact_transactions
+- Dims:  gold_dim_countries, gold_dim_merchants
+==================================================================================================*/
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+7. Which merchant categories or countries have the most active acceptance locations, and where are we underrepresented?
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+	
+	-- Acceptance per merchant category
+	WITH acceptance as(
+		SELECT c.country_name as Country
+			,m.merchant_description as Merchant_Category
+			,1.0*COUNT(merchant_description) as Active_Merchant
+		FROM gold_dim_merchants m
+		LEFT JOIN gold_dim_countries c
+		ON m.country_code = c.country_code
+		WHERE status = 'Active'
+		GROUP BY c.country_name, merchant_description),
+	avg_acceptance as(
+	SELECT Country
+		,Merchant_Category
+		,Active_Merchant			--category-wise active merchants within country
+		,AVG(active_Merchant) OVER(PARTITION BY Country) as Average_Acceptance_within_Country		
+		,SUM(active_Merchant) OVER(PARTITION BY Country) as Active_Merchants_in_Country				--country wise active merchants
+		,AVG(active_Merchant) OVER() as Average_Global_Acceptance
+	FROM acceptance)
+	SELECT Country
+		,Merchant_Category
+		,CASE WHEN Active_Merchants_in_Country > Average_Global_Acceptance THEN 'Well-Represented'
+		ELSE 'Under-Represented' END as Represantation_Status_Country_Wise							-- Comparing the country's active merchants against global average
+		,CASE WHEN Active_Merchant > Average_Acceptance_within_Country THEN 'Well-Represented'
+		ELSE 'Under-Represented' END as Represantation_Status_Merchant_Category_Wise_WIthin_Country -- Comparing the category's active merchants against country's average
+	FROM avg_acceptance
+	ORDER BY Average_Acceptance_within_Country DESC, Active_Merchant DESC;
+
+
+/*
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+8. What share of transactions are now contactless and tokenized, and how fast is that adoption moving month over month?
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+	WITH transaction_counts as (
+		SELECT DATETRUNC(MONTH,transaction_datetime) as Period
+			,COUNT(*) as Total_Transactions
+			,SUM(CASE WHEN contactless_transaction = 'Yes' THEN 1 ELSE 0 END) as Contactless_Transactions
+			,SUM(CASE WHEN tokenized_transaction = 'Yes' THEN 1 ELSE 0 END) as Tokenized_Traansactions
+		FROM gold_fact_transactions
+		GROUP BY DATETRUNC(MONTH,transaction_datetime)),
+	transaction_share as(
+	SELECT Period
+		,Total_Transactions
+		,(1.0*Contactless_Transactions)/NULLIF(Total_Transactions,0) as Contactless_Share
+		,LAG((1.0*Contactless_Transactions)/NULLIF(Total_Transactions,0),1,0.00) OVER(ORDER BY Period) as Prev_Month_Contactless_Share
+		,(1.0*Tokenized_Traansactions)/NULLIF(Total_Transactions,0) as Tokenized_Share
+		,LAG((1.0*Tokenized_Traansactions)/NULLIF(Total_Transactions,0),1,0.00) OVER(ORDER BY Period) as Prev_Month_Tokenized_Share
+	FROM transaction_counts)
+	SELECT Period
+		,Total_Transactions
+		,FORMAT(contactless_share, '00.00%') as Contactless_Share_percentage
+		,FORMAT(((Contactless_Share - Prev_Month_Contactless_Share)/NULLIF(Prev_Month_Contactless_Share,0)),'00.00%') as Contactless_Growth_Percentage
+		,FORMAT(Tokenized_Share, '00.00%') as Tokenized_Share_percentage
+		,FORMAT(((Tokenized_Share - Prev_Month_Tokenized_Share)/NULLIF(Prev_Month_Tokenized_Share,0)),'00.00%') as Tokenized_Growth_Percentage
+	FROM transaction_share
+	ORDER BY Period;
+
+================================
+END
+================================
