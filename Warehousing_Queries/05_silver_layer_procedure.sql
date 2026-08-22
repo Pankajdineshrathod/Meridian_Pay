@@ -47,7 +47,7 @@ Getting data into the "silver_api_logs" table
         INSERT INTO silver_api_logs
         SELECT log_id
               ,CAST(period as date) as record_date
-              ,bank_name
+              ,UPPER(LEFT(bank_name, 1)) + LOWER(SUBSTRING(bank_name, 2, LEN(bank_name))) as bank_name
               ,CASE 
 	                WHEN TRIM(UPPER(integration_type)) IN ('FRAUD SCREENING API','FRAUD', 'FRAUD SCREENING') then 'Fraud Screening'
 	                WHEN TRIM(UPPER(integration_type)) IN ('TOKENIZATION API', 'TOKENIZATION') then 'Tokenization'
@@ -59,7 +59,7 @@ Getting data into the "silver_api_logs" table
               ,successful_calls as successful_api_calls
               ,failed_calls as failed_api_calls
               ,avg_response_time_ms as average_response_time
-              ,CASE WHEN source_system IS NULL THEN 'N/A' ELSE source_system END as source_system
+              ,CASE WHEN source_system IS NULL THEN 'Unknown' ELSE source_system END as source_system
               ,CAST(extracted_at AS DATE) as extraction_date
               ,getdate() as import_time
         FROM dbo.Bronze_api_logs;
@@ -196,20 +196,20 @@ Getting data into the "silver_card_master_system_A" table
         SELECT
             TRIM(Card_id) as card_id,
             CASE UPPER(TRIM(REPLACE(REPLACE(REPLACE(Card_Network, ' ', '<>'), '><', ''), '<>',' ')))
-                WHEN 'MERIDIAN PRIMARY' THEN 'Meridian Primary'
-                WHEN 'MERIDIAN DIRECT' THEN 'Meridian Direct'
-                WHEN 'MERIDIAN AFFILIATE' THEN 'Meridian Affiliate'
-                ELSE 'N/A'
+                WHEN 'MERIDIAN PRIMARY' THEN 'Primary'
+                WHEN 'MERIDIAN DIRECT' THEN 'Direct'
+                WHEN 'MERIDIAN AFFILIATE' THEN 'Affiliate'
+                ELSE 'Unknown'
                END as card_network,
             Card_Type as card_type,
             CASE TRIM(Segment)
                 WHEN 'Consumer' THEN 'Consumer'
                 WHEN 'Commercial' THEN 'Commercial'
-                ELSE 'N/A'
+                ELSE 'Unknown'
             END as segment,
             CASE 
                 WHEN UPPER(TRIM(REPLACE(REPLACE(REPLACE(Issuer_Bank, ' ', '<>'), '><', ''), '<>',' ')))  
-                IN ('N/A', 'UNKNOWN','NULL', '-', 'NONE') THEN 'N/A' 
+                IN ('N/A', 'UNKNOWN','NULL', '-', 'NONE') THEN 'Unknown' 
                 ELSE TRIM(REPLACE(REPLACE(REPLACE(Issuer_Bank, ' ', '<>'), '><', ''), '<>',' '))
             END as issuer_bank,
             CASE Issuance_Country
@@ -262,7 +262,7 @@ Getting data into the "silver_card_master_system_A" table
                     TRY_CAST(TRY_CAST(TRY_CAST(Expiry_Date AS INT) AS DATETIME) AS Date),
                     TRY_CONVERT(DATE, Expiry_Date, 112)) AS DATE) < CAST(getdate() as date)
                 THEN 'Inactive'
-                ELSE 'N/A'
+                ELSE 'Unknown'
                 END as card_status, 
             source_extract_date,
             getdate() as import_time
@@ -293,7 +293,12 @@ Getting data into the "silver_card_status_feed" table
 
         INSERT INTO silver_card_status_feed
         SELECT TRIm(card_no) as card_number
-              ,network as card_network
+              ,CASE UPPER(TRIM(REPLACE(REPLACE(REPLACE(Network, ' ', '<>'), '><', ''), '<>',' ')))
+                WHEN 'MERIDIAN PRIMARY' THEN 'Primary'
+                WHEN 'MERIDIAN DIRECT' THEN 'Direct'
+                WHEN 'MERIDIAN AFFILIATE' THEN 'Affiliate'
+                ELSE 'Unknown'
+               END as card_network
               ,CASE WHEN UPPER(TRIM(card_category)) = 'CR' THEN 'Credit'
                   WHEN UPPER(TRIM(card_category)) = 'DB' THEN 'Debit'
                   ELSE 'Prepaid' 
