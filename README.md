@@ -55,10 +55,10 @@ SILVER
 - [x] Clean & conform (standardize types/formats, resolve cross-source conflicts)
 - [x] Create "stored procedure" for importing new data from the bronze tables
 GOLD
-- [ ] Design the dimensional model based on findings + the KPI requirements
-- [ ] Build the ETL pipeline and load into the warehouse
+- [x] Design the dimensional model based on findings + the KPI requirements
+- [x] Build the ETL pipeline and load into the warehouse
 ANALYSIS
-- [ ] Write the KPI queries
+- [x] Write the KPI queries
 - [ ] (stretch) BI dashboard layer
 
 ## Tech stack
